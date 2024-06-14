@@ -18,3 +18,6 @@ http-server .
     Arc: https://vega.github.io/vega/examples/arc-diagram/
     Bubble: https://vega.github.io/vega-lite/examples/circle_natural_disasters.html
     Gantt: https://vega.github.io/vega-lite/examples/bar_gantt.html
+
+# Issues Run Into
+      Sometimes http-server does not update correctly, if it is not updating, open again in an incognito tab.
