@@ -1,0 +1,9 @@
+Run the code by running: 
+    npm install -g http-server
+    http-server .
+
+Navigate to the url provided by 'http-server' (typically http://localhost:8080)
+
+If you want to view the arc diagram, go to: http://localhost:8080/arcDiagram.html
+
+If you want to view the bubble chart. go to: 

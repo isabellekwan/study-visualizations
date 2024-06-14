@@ -1,8 +1,5 @@
-const fs = require('fs');
-const xlsx = require('xlsx');
-
-// The provided data
-const resources = [
+{
+"data": [
     {
       "ref": {
         "@ref": {
@@ -66,7 +63,7 @@ const resources = [
           "dislike": true,
           "qtags": "no-qtag-yet",
           "totalTime": 0,
-          "categoryName": "uncategorized",
+          "categoryName": "lectures_and_demos",
           "qtag": [
             "no-qtags-yet"
           ]
@@ -101,7 +98,7 @@ const resources = [
           "dislike": false,
           "qtags": "animal-noises",
           "totalTime": 0,
-          "categoryName": "uncategorized",
+          "categoryName": "my_work",
           "qtag": "animal-noises"
         }
       }
@@ -134,7 +131,7 @@ const resources = [
           "dislike": false,
           "qtags": "no-qtag-yet",
           "totalTime": 10,
-          "categoryName": "uncategorized"
+          "categoryName":"ai_help"
         }
       }
     },
@@ -166,7 +163,7 @@ const resources = [
           "dislike": false,
           "qtags": "no-qtag-yet",
           "totalTime": 0,
-          "categoryName": "uncategorized"
+          "categoryName": "discussion_forum_helpseeking"
         }
       }
     },
@@ -231,7 +228,7 @@ const resources = [
           "dislike": false,
           "qtags": "heuristic-evaluation",
           "totalTime": 2,
-          "categoryName": "uncategorized",
+          "categoryName": "articles",
           "qtag": "heuristic-evaluation"
         }
       }
@@ -301,7 +298,7 @@ const resources = [
           "dislike": false,
           "qtags": "no-qtag-yet",
           "totalTime": 0,
-          "categoryName": "uncategorized"
+          "categoryName": "articles"
         }
       }
     },
@@ -333,7 +330,7 @@ const resources = [
           "dislike": false,
           "qtags": "no-qtag-yet",
           "totalTime": 0,
-          "categoryName": "uncategorized"
+          "categoryName": "step_by_step_tutorials"
         }
       }
     },
@@ -365,7 +362,7 @@ const resources = [
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 0,
-            "categoryName": "uncategorized"
+            "categoryName": "discussion_forum_helpseeking"
           }
         }
       },
@@ -397,7 +394,7 @@ const resources = [
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 0,
-            "categoryName": "uncategorized"
+            "categoryName": "discussion_forum_helpseeking"
           }
         }
       },
@@ -461,7 +458,7 @@ const resources = [
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 0,
-            "categoryName": "uncategorized"
+            "categoryName": "my work"
           }
         }
       },
@@ -493,7 +490,7 @@ const resources = [
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 0,
-            "categoryName": "uncategorized"
+            "categoryName": "articles"
           }
         }
       },
@@ -525,7 +522,7 @@ const resources = [
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 0,
-            "categoryName": "uncategorized"
+            "categoryName": "ai_help"
           }
         }
       },
@@ -589,7 +586,7 @@ const resources = [
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 0,
-            "categoryName": "uncategorized"
+            "categoryName": "lectures_and_demos"
           }
         }
       },
@@ -654,7 +651,7 @@ const resources = [
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 0,
-            "categoryName": "uncategorized"
+            "categoryName": "step_by_step_tutorials"
           }
         }
       },
@@ -784,54 +781,9 @@ const resources = [
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 0,
-            "categoryName": "uncategorized"
+            "categoryName": "articles"
           }
         }
       }
-];
-
-// Extract the relevant data into a flat array of objects
-const resourceData = resources.map((resource) => {
-    const { url, accessStartTime, siteName, timeActive, isExactBookmark, like, dislike, qtags, totalTime, categoryName, qtag } = resource.data.siteInfo;
-    return {
-        url,
-        accessStartTime,
-        siteName,
-        timeActive,
-        isExactBookmark,
-        like,
-        dislike,
-        qtags,
-        totalTime,
-        categoryName,
-        qtag
-    };
-});
-
-// Define the headers
-const headers = [
-    'url',
-    'accessStartTime',
-    'siteName',
-    'timeActive',
-    'isExactBookmark',
-    'like',
-    'dislike',
-    'qtags',
-    'totalTime',
-    'categoryName',
-    'qtag'
-];
-
-// Create a new workbook and add the data
-const workbook = xlsx.utils.book_new();
-const worksheet = xlsx.utils.json_to_sheet(resourceData, { header: headers });
-
-// Add the worksheet to the workbook
-xlsx.utils.book_append_sheet(workbook, worksheet, 'ResourceData');
-
-// Save the workbook to a file
-const filePath = '/mnt/data/resource_data.xlsx';
-xlsx.writeFile(workbook, filePath);
-
-console.log(`Excel file created at ${filePath}`);
+    ]
+}
