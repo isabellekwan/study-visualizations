@@ -4,7 +4,7 @@ fetch('someDocuments.json')  // Fetch the JSON data
         const data = jsonData.data; // access data array in JSON file
 
         const categories = [
-          "articles", "uncategorized", "lectures_and_demos", "step_by_step_tutorials",
+          "articles", "lectures_and_demos", "step_by_step_tutorials",
           "discussion_forum_helpseeking", "ai_help", "my_work"
         ];
 
@@ -32,7 +32,7 @@ fetch('someDocuments.json')  // Fetch the JSON data
 
         for (const [fromCategory, targets] of Object.entries(transitions)) {
           for (const [toCategory, count] of Object.entries(targets)) {
-            if (count > 0) {
+            if (count > 0 && fromCategory !== "uncategorized" && toCategory !== "uncategorized") {
               links.push({ "source": fromCategory, "target": toCategory, "value": count });
             }
           }
@@ -69,11 +69,33 @@ fetch('someDocuments.json')  // Fetch the JSON data
             {
               "name": "linkWidth",
               "type": "linear",
-              "range": [1, 10],
-              "domain": {"data": "links", "field": "value"}
+              "range": [1, 15],
+              "domain": {"data": "links", "field": "value"},
+              "zero": true, 
+              "nice": true
+            },
+            {
+              "name": "color",
+              "type": "ordinal",
+              "domain": ["articles", "lectures_and_demos", "step_by_step_tutorials", "discussion_forum_helpseeking", "ai_help", "my_work"],
+              "range": ["#ecc5b7", "#d7947d", "#b97763", "#7eaba6", "#5abba7", "#6ad6e7"]  
             }
           ],
           "marks": [
+            {
+              "type": "path",
+              "from": {"data": "links"},
+              "encode": {
+                "enter": {
+                  "path": {
+                    "signal": "datum.source && datum.target ? 'M' + scale('x', datum.source) + ',200A150,150 0 0,1 ' + scale('x', datum.target) + ',200' : null"
+                  },
+                  "stroke": {"scale": "color", "field": "source"},
+                  "strokeWidth": {"scale": "linkWidth", "field": "value"},
+                  "order": {"value": 1}
+                }
+              }
+            },
             {
               "type": "symbol",
               "from": {"data": "nodes"},
@@ -81,46 +103,32 @@ fetch('someDocuments.json')  // Fetch the JSON data
                 "enter": {
                   "x": {"scale": "x", "field": "name"},
                   "y": {"value": 200},
-                  "size": {"signal": "datum.name === datum.name ? (datum.name === datum.name ? 2 : 1.5) * 100 : 100"},
-                  "fill": {"value": "steelblue"}
+                  "size": {"value": 300},
+                  "fill": {"scale": "color", "field": "name"},
+                  "order": {"value": 2}
                 }
               }
             },
             {
-            "type": "text",
-            "from": {"data": "nodes"},
-            "encode": {
+              "type": "text",
+              "from": {"data": "nodes"},
+              "encode": {
                 "enter": {
-                "x": {"scale": "x", "field": "name"},
-                "y": {"value": 240},
-                "align": {"value": "center"},
-                "baseline": {"value": "middle"},
-                "text": {"field": "label"},
-                "fontSize": {"value": 12},
-                "fontWeight": {"value": "normal"},
-                "fill": {"value": "black"},
-                "angle": {
-                "signal": "-45"
-                }
-            }
-            }
-            },
-            {
-                "type": "path",
-                "from": {"data": "links"},
-                "encode": {
-                "enter": {
-                  "path": {
-                    "signal": "datum.source && datum.target ? 'M' + scale('x', datum.source) + ',200A150,150 0 0,1 ' + scale('x', datum.target) + ',200' : null"
-                    },
-                    "stroke": {"value": "rgba(70, 130, 180, 0.7)"},
-                  "strokeWidth": {"scale": "linkWidth", "field": "value"}
+                  "x": {"scale": "x", "field": "name"},
+                  "y": {"value": 240},
+                  "align": {"value": "center"},
+                  "baseline": {"value": "middle"},
+                  "text": {"field": "label"},
+                  "fontSize": {"value": 12},
+                  "fontWeight": {"value": "normal"},
+                  "fill": {"value": "black"},
+                  "angle": {"signal": "-45"},
+                  "order": {"value": 3} 
                 }
               }
             }
           ]
         };
-
         vegaEmbed('#vis', spec).catch(console.error);
       })
       .catch(error => console.error('Error fetching JSON:', error));

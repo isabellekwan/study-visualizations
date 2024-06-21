@@ -28,7 +28,7 @@
           "dislike": false,
           "qtags": "no-qtag-yet",
           "totalTime": 0,
-          "categoryName": "uncategorized",
+          "categoryName": "articles",
           "qtag": [
             "no-qtags-yet"
           ]
@@ -426,7 +426,7 @@
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 0,
-            "categoryName": "uncategorized"
+            "categoryName": "lectures_and_demos"
           }
         }
       },
@@ -554,7 +554,7 @@
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 0,
-            "categoryName": "uncategorized"
+            "categoryName": "articles"
           }
         }
       },
@@ -586,7 +586,7 @@
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 0,
-            "categoryName": "lectures_and_demos"
+            "categoryName": "step_by_step_tutorials"
           }
         }
       },
@@ -716,7 +716,7 @@
             "dislike": false,
             "qtags": "no-qtag-yet",
             "totalTime": 4,
-            "categoryName": "uncategorized"
+            "categoryName": "step_by_step_tutorials"
           }
         }
       },
