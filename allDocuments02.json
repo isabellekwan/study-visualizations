@@ -1,0 +1,1816 @@
+{
+  "data": [
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701360625516612",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449553870000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-resources-overview.netlify.app/",
+          "accessStartTime": "Wed Jun 26 2024 17:50:51 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Resource-based overview",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701664884523073",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449553750000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-calendar-overview.netlify.app/",
+          "accessStartTime": "Wed Jun 26 2024 17:50:46 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Vite App",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701665113112644",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351410880000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=geekfor+geeks",
+          "accessStartTime": "Tue Jun 25 2024 14:36:23 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=geekfor+geeks",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701665232650305",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351767850000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.geeksforgeeks.org/",
+          "accessStartTime": "Tue Jun 25 2024 14:36:25 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "geeksforgeeks.org/",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701665358479428",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351767860000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=gcse",
+          "accessStartTime": "Tue Jun 25 2024 14:36:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=gcse",
+          "timeActive": 105,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701817536217153",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351767833000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.geeksforgeeks.org/searching-algorithms/?ref=lbp",
+          "accessStartTime": "Tue Jun 25 2024 14:38:24 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "geeksforgeeks.org/searching-algorithms/?ref=lbp",
+          "timeActive": 69,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "lookoverserarching",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": "lookoverserarching"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701896372355140",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351767852000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.geeksforgeeks.org/searching-algorithms/?ref=lbp#what-is-searching",
+          "accessStartTime": "Tue Jun 25 2024 14:42:20 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Searching Algorithms - GeeksforGeeks",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701896495038532",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351631540000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=coding+problems+related+to+dsa",
+          "accessStartTime": "Tue Jun 25 2024 14:40:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=coding+problems+related+to+dsa",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701896625061953",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351767854000,
+      "data": {
+        "siteInfo": {
+          "url": "https://github.com/bollwarm/DataStructuresAlgorithms",
+          "accessStartTime": "Tue Jun 25 2024 14:42:20 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "GitHub - bollwarm/DataStructuresAlgorithms: 500+ Data Structures and Algorithms practice problems",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "lookingforcodingproblems",
+          "totalTime": 0,
+          "categoryName": "my_work",
+          "psuedoDeleteFlag": false,
+          "qtag": "lookingforcodingproblems"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701959671742532",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351767836000,
+      "data": {
+        "siteInfo": {
+          "url": "https://stackoverflow.com/",
+          "accessStartTime": "Tue Jun 25 2024 14:40:49 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701959784988737",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351767840000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=stackoverflow",
+          "accessStartTime": "Tue Jun 25 2024 14:41:03 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=stackoverflow",
+          "timeActive": 10,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701959909769281",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351692020000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=salesforce+careers&client=firefox-b-d&sca_esv=94e45fce1d51b060&ei=Xzl7ZtDsO7yu0PEP2aCx-As&oq=salesforce+car&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnNhbGVzZm9yY2UgY2FyKgIIADILEAAYgAQYsQMYgwEyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARI7EBQyRNYwjNwAngBkAEAmAGRAaABpQeqAQQxMy4xuAEDyAEA-AEBmAIQoAKbCKgCFMICGRAuGIAEGNEDGEMYtAIYxwEYigUY6gLYAQHCAhMQABiABBhDGLQCGIoFGOoC2AEBwgIWEC4YAxi0AhjlAhjqAhiMAxiPAdgBAsICFhAAGAMYtAIY5QIY6gIYjAMYjwHYAQLCAhkQLhgDGNQCGLQCGOUCGOoCGIwDGI8B2AECwgIMEAAYgAQYQxiKBRgKwgIKEAAYgAQYQxiKBcICEBAuGIAEGNEDGEMYxwEYigXCAg4QABiABBixAxiDARiKBcICERAuGIAEGJECGMcBGIoFGK8BwgILEAAYgAQYkQIYigXCAhEQLhiABBixAxjRAxiDARjHAcICCxAuGIAEGNEDGMcBwgIOEC4YgAQYsQMYgwEYigXCAgsQLhiABBixAxiDAcICIBAuGIAEGJECGMcBGIoFGK8BGJcFGNwEGN4EGOAE2AEDwgIWEC4YgAQYsQMY0QMYQxiDARjHARiKBcICDRAuGIAEGLEDGEMYigXCAg4QLhiABBixAxjRAxjHAcICCBAuGIAEGLEDwgINEAAYgAQYsQMYQxiKBcICCBAAGIAEGLEDwgIFEC4YgATCAiUQLhiABBixAxjRAxhDGIMBGMcBGIoFGJcFGNwEGN4EGOAE2AEDwgILEC4YgAQYxwEYrwHCAh0QLhiABBixAxjRAxjHARiXBRjcBBjeBBjgBNgBA5gDD7oGBAgBGAe6BgYIAhABGAq6BgYIAxABGBSSBwQxNC4yoAeyigE&sclient=gws-wiz-serp",
+          "accessStartTime": "Tue Jun 25 2024 14:41:13 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?q=salesforce+careers&client=firefox-b-d&sca_esv=94e45fce1d51b060&ei=Xzl7ZtDsO7yu0P",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701960029306948",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351717940000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.salesforce.com/ca/company/careers/rdr/",
+          "accessStartTime": "Tue Jun 25 2024 14:41:35 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "salesforce.com/ca/company/careers/rdr/",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701960153038913",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351717830000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.salesforce.com/ca/company/careers/canada/?d=cta-rdr-ca",
+          "accessStartTime": "Tue Jun 25 2024 14:41:22 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "salesforce.com/ca/company/careers/canada/?d=cta-rdr-ca",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "lookforjobs",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": "lookforjobs"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701987332128833",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351873720000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=how+to+enhance+your+resume",
+          "accessStartTime": "Tue Jun 25 2024 14:42:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=how+to+enhance+your+resume",
+          "timeActive": 18,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401701987457957953",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719351767830000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.coursera.org/articles/ways-to-enhance-your-resume",
+          "accessStartTime": "Tue Jun 25 2024 14:41:47 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "coursera.org/articles/ways-to-enhance-your-resume",
+          "timeActive": 14,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "improveyourresume",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": "improveyourresume"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401788800094699588",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719434509305000,
+      "data": {
+        "siteInfo": {
+          "url": "about:debugging#/runtime/this-firefox",
+          "accessStartTime": "Wed Jun 26 2024 13:33:58 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Debugging - Runtime / this-firefox",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401788800276103236",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719434509480000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/accounts/login/",
+          "accessStartTime": "Wed Jun 26 2024 13:34:10 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/accounts/login/",
+          "timeActive": 18,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401788800419758145",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449553470000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/",
+          "accessStartTime": "Wed Jun 26 2024 17:48:49 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401788800553975876",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719434509740000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problemset/",
+          "accessStartTime": "Wed Jun 26 2024 13:34:33 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/problemset/",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401788800711262273",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449553205000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/remove-element/",
+          "accessStartTime": "Wed Jun 26 2024 17:48:37 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/problems/remove-element/",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401788800833945668",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449553336000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/remove-element/description/",
+          "accessStartTime": "Wed Jun 26 2024 17:48:37 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "- LeetCode",
+          "timeActive": 7,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401788800977600577",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719434510136000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problemset/?difficulty=EASY&page=1",
+          "accessStartTime": "Wed Jun 26 2024 13:36:15 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/problemset/?difficulty=EASY&page=1",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401788801106575425",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449552416000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/search-insert-position/",
+          "accessStartTime": "Wed Jun 26 2024 14:21:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/problems/search-insert-position/",
+          "timeActive": 186,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401788801248133188",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449554000000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/search-insert-position/description/",
+          "accessStartTime": "Wed Jun 26 2024 17:51:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Search Insert Position - LeetCode",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401804573809836100",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449552285000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/search-insert-position/submissions/1301322737/",
+          "accessStartTime": "Wed Jun 26 2024 14:21:30 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Search Insert Position - LeetCode",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401804574077222977",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449552553000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/length-of-last-word/",
+          "accessStartTime": "Wed Jun 26 2024 14:25:10 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Remove Element - LeetCode",
+          "timeActive": 10995,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401804574229266500",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449552680000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/length-of-last-word/submissions/1301400778/",
+          "accessStartTime": "Wed Jun 26 2024 17:29:27 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Length of Last Word - LeetCode",
+          "timeActive": 18,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401804574364532801",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449552813000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/sqrtx/description/",
+          "accessStartTime": "Wed Jun 26 2024 17:29:46 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Length of Last Word - LeetCode",
+          "timeActive": 214,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401804574500847684",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449552940000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/sqrtx/",
+          "accessStartTime": "Wed Jun 26 2024 17:33:21 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Sqrt(x) - LeetCode",
+          "timeActive": 817,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401804574631919684",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449553066000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/sqrtx/submissions/1301408433/",
+          "accessStartTime": "Wed Jun 26 2024 17:47:05 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Sqrt(x) - LeetCode",
+          "timeActive": 92,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401804575193956420",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449553603000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/plus-one/",
+          "accessStartTime": "Wed Jun 26 2024 17:48:52 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "- LeetCode",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401804575745507396",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449554135000,
+      "data": {
+        "siteInfo": {
+          "url": "moz-extension://a683ab02-ac19-429f-80f4-77e4b572f3e0/milestone_sidebar.html#",
+          "accessStartTime": "Wed Jun 26 2024 17:51:32 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "MARK YOUR MILESTONES",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401804575886016577",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556339340000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/plus-one/description/",
+          "accessStartTime": "Thu Jun 27 2024 23:31:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Plus One - LeetCode",
+          "timeActive": 26,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "solvePlusOne",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": "solvePlusOne"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401804576033865796",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719449889030000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-topics-overview.netlify.app/",
+          "accessStartTime": "Wed Jun 26 2024 17:52:35 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Milestones Topics Overview",
+          "timeActive": 330,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916548388749385",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556620543000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=behaviour+questions+in+software+developer+position",
+          "accessStartTime": "Thu Jun 27 2024 23:32:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=behaviour+questions+in+software+developer+position",
+          "timeActive": 14,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916548592173129",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556639500000,
+      "data": {
+        "siteInfo": {
+          "url": "https://igotanoffer.com/blogs/tech/software-engineer-behavioral-interview-questions",
+          "accessStartTime": "Thu Jun 27 2024 23:31:31 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "igotanoffer.com/blogs/tech/software-engineer-behavioral-interview-questions",
+          "timeActive": 75,
+          "isExactBookmark": false,
+          "like": true,
+          "dislike": false,
+          "qtags": "behaviourQues",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": "behaviourQues"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916842873978957",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556620380000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.techinterviewhandbook.org/behavioral-interview-questions/",
+          "accessStartTime": "Thu Jun 27 2024 23:32:54 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "The 30 most common Software Engineer behavioral interview questions | Tech Interview Handbook",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916843212669005",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556620705000,
+      "data": {
+        "siteInfo": {
+          "url": "https://olc.sfu.ca/topic/job-search/interviews",
+          "accessStartTime": "Thu Jun 27 2024 23:33:35 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Interviews | SFU OLC",
+          "timeActive": 38,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 38,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916843382538317",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556620860000,
+      "data": {
+        "siteInfo": {
+          "url": "https://olc.sfu.ca/coop/seeking",
+          "accessStartTime": "Thu Jun 27 2024 23:34:13 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Co-operative - Seeking | SFU OLC",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916843544019021",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556621025000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=sfu+library+of+co-op+position+questions&client=firefox-b-d&sca_esv=cd08aac0b4846c63&ei=wFh-ZqDiEp-w0PEPwoa4wA4&oq=sfu+library+of+co-op+&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXNmdSBsaWJyYXJ5IG9mIGNvLW9wICoCCAIyBRAhGKABMgUQIRigATIFECEYoAFIhmFQsAtY4kpwAXgAkAEAmAG9AqAB2BKqAQgxMy41LjIuMbgBA8gBAPgBAZgCFqAC_hOoAhTCAh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBAcICFhAuGAMYtAIY5QIY6gIYjAMYjwHYAQLCAhYQABgDGLQCGOUCGOoCGIwDGI8B2AECwgILEAAYgAQYkQIYigXCAgoQABiABBhDGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAg4QABiABBixAxiDARiKBcICDhAuGIAEGLEDGNEDGMcBwgILEAAYgAQYsQMYgwHCAhcQLhiABBiRAhixAxjRAxiDARjHARiKBcICEBAAGIAEGLEDGEMYgwEYigXCAg0QLhiABBhDGNQCGIoFwgIUEC4YgAQYsQMYgwEYxwEYjgUYrwHCAg0QABiABBixAxhDGIoFwgImEC4YgAQYkQIYsQMY0QMYgwEYxwEYigUYlwUY3AQY3gQY4ATYAQPCAhkQLhiABBixAxhDGIMBGMcBGIoFGI4FGK8BwgIQEC4YgAQYQxjHARiKBRivAcICEBAuGIAEGLEDGEMYgwEYigXCAgUQABiABMICKBAuGIAEGLEDGEMYgwEYxwEYigUYjgUYrwEYlwUY3AQY3gQY4ATYAQPCAgsQLhiABBjHARivAcICIxAuGIAEGLEDGIMBGMcBGI4FGK8BGJcFGNwEGN4EGOAE2AEDwgIOEC4YgAQYxwEYjgUYrwHCAgYQABgWGB7CAgIQJsICCBAAGIAEGKIEwgIIEAAYFhgeGA_CAgUQIRifBZgDDLoGBAgBGAe6BgYIAhABGAq6BgYIAxABGBSSBwgxNC41LjIuMaAH2K8B&sclient=gws-wiz-serp",
+          "accessStartTime": "Thu Jun 27 2024 23:34:14 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "sfu library of co-op position questions - Google Search",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916843757928525",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556621223000,
+      "data": {
+        "siteInfo": {
+          "url": "http://www.sfu.ca/coop.html",
+          "accessStartTime": "Thu Jun 27 2024 23:34:23 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Co-operative Education - Simon Fraser University",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916843925700681",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556621383000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=sfu+library+of+co-op+position+questions&client=firefox-b-d&sca_esv=cd08aac0b4846c63&ei=wFh-ZqDiEp-w0PEPwoa4wA4&oq=sfu+library+of+co-op+&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXNmdSBsaWJyYXJ5IG9mIGNvLW9wICoCCAIyBRAhGKABMgUQIRigATIFECEYoAFIhmFQsAtY4kpwAXgAkAEAmAG9AqAB2BKqAQgxMy41LjIuMbgBA8gBAPgBAZgCFqAC_hOoAhTCAh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBAcICFhAuGAMYtAIY5QIY6gIYjAMYjwHYAQLCAhYQABgDGLQCGOUCGOoCGIwDGI8B2AECwgILEAAYgAQYkQIYigXCAgoQABiABBhDGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAg4QABiABBixAxiDARiKBcICDhAuGIAEGLEDGNEDGMcBwgILEAAYgAQYsQMYgwHCAhcQLhiABBiRAhixAxjRAxiDARjHARiKBcICEBAAGIAEGLEDGEMYgwEYigXCAg0QLhiABBhDGNQCGIoFwgIUEC4YgAQYsQMYgwEYxwEYjgUYrwHCAg0QABiABBixAxhDGIoFwgImEC4YgAQYkQIYsQMY0QMYgwEYxwEYigUYlwUY3AQY3gQY4ATYAQPCAhkQLhiABBixAxhDGIMBGMcBGIoFGI4FGK8BwgIQEC4YgAQYQxjHARiKBRivAcICEBAuGIAEGLEDGEMYgwEYigXCAgUQABiABMICKBAuGIAEGLEDGEMYgwEYxwEYigUYjgUYrwEYlwUY3AQY3gQY4ATYAQPCAgsQLhiABBjHARivAcICIxAuGIAEGLEDGIMBGMcBGI4FGK8BGJcFGNwEGN4EGOAE2AEDwgIOEC4YgAQYxwEYjgUYrwHCAgYQABgWGB7CAgIQJsICCBAAGIAEGKIEwgIIEAAYFhgeGA_CAgUQIRifBZgDDLoGBAgBGAe6BgYIAhABGAq6BgYIAxABGBSSBwgxNC41LjIuMaAH2K8B&sclient=gws-wiz-serp#ip=1",
+          "accessStartTime": "Thu Jun 27 2024 23:34:32 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "sfu library of co-op position questions - Google Search",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 13,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916844096618569",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556621540000,
+      "data": {
+        "siteInfo": {
+          "url": "https://olc.sfu.ca/taxonomy/term/705",
+          "accessStartTime": "Thu Jun 27 2024 23:35:08 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Behavioural and Situational | SFU OLC",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 6,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916844254953545",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556621695000,
+      "data": {
+        "siteInfo": {
+          "url": "https://olc.sfu.ca/olc/interview-question-database",
+          "accessStartTime": "Thu Jun 27 2024 23:35:14 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Interview Question Database | SFU OLC",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916844463620169",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556621890000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=sfu+co-op+position+questions&client=firefox-b-d&sca_esv=cd08aac0b4846c63&ei=Jll-ZomgEuKd0PEP9tiI6Aw&ved=0ahUKEwiJy8Le1v2GAxXiDjQIHXYsAs0Q4dUDCBA&uact=5&oq=sfu+co-op+position+questions&gs_lp=Egxnd3Mtd2l6LXNlcnAiHHNmdSBjby1vcCBwb3NpdGlvbiBxdWVzdGlvbnMyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI8BlQwgZYsRFwAHgBkAEAmAFboAGiAqoBATS4AQPIAQD4AQGYAgSgAv4BwgIEEAAYR8ICCBAhGKABGMMEmAMAiAYBkAYFkgcBNKAHtAg&sclient=gws-wiz-serp",
+          "accessStartTime": "Thu Jun 27 2024 23:35:14 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "sfu co-op position questions - Google Search",
+          "timeActive": 30,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 30,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916844624052301",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556622056000,
+      "data": {
+        "siteInfo": {
+          "url": "https://olc.sfu.ca/sfu-story/day-life-worksafebc-co-op-student",
+          "accessStartTime": "Thu Jun 27 2024 23:35:50 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "[SFU OLC - SFU Story] A Day in the The Life of a WorkSafeBC Co-op Student",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916844793921613",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556622210000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=sfu+students+experience+working+as+co-op+in+worksafebc&client=firefox-b-d&sca_esv=cd08aac0b4846c63&ei=hVl-ZvOmBpbw0PEP36-xkAs&ved=0ahUKEwiz_dyL1_2GAxUWODQIHd9XDLIQ4dUDCBA&uact=5&oq=sfu+students+experience+working+as+co-op+in+worksafebc&gs_lp=Egxnd3Mtd2l6LXNlcnAiNnNmdSBzdHVkZW50cyBleHBlcmllbmNlIHdvcmtpbmcgYXMgY28tb3AgaW4gd29ya3NhZmViYzIHECEYoAEYCjIHECEYoAEYCjIEECEYFUjuvQFQ_gVYj7gBcAN4AJABAJgBZKABoBuqAQQ0Ni4yuAEDyAEA-AEBmAIyoALgHKgCFMICChAAGLADGNYEGEfCAh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBAcICGhAAGIAEGLQCGOUCGLcDGIoFGOoCGIoD2AEBwgIWEC4YAxi0AhjlAhjqAhiMAxiPAdgBAsICFhAAGAMYtAIY5QIY6gIYjAMYjwHYAQLCAgoQABiABBhDGIoFwgITEC4YgAQYQxjHARiKBRiOBRivAcICCxAuGIAEGJECGIoFwgIQEC4YgAQYQxjHARiKBRivAcICERAuGIAEGLEDGNEDGIMBGMcBwgIOEAAYgAQYsQMYgwEYigXCAhAQABiABBixAxhDGIMBGIoFwgIZEC4YgAQYsQMYQxiDARjHARiKBRiOBRivAcICERAuGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAhQQLhiABBixAxiDARjHARiOBRivAcICCxAuGIAEGLEDGIMBwgILEC4YgAQYxwEYrwHCAggQABiABBixA8ICBRAAGIAEwgILEAAYgAQYkQIYigXCAhEQLhiABBiRAhjHARiKBRivAcICBhAAGBYYHsICCBAAGBYYChgewgILEAAYgAQYhgMYigXCAggQABiABBiiBMICBRAhGKABwgIFECEYnwWYAwqIBgGQBgi6BgQIARgHugYGCAIQARgKkgcENDcuM6AH-McC&sclient=gws-wiz-serp",
+          "accessStartTime": "Thu Jun 27 2024 23:35:58 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "sfu students experience working as co-op in worksafebc - Google Search",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 6,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916844960645193",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556622370000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.sfu.ca/students/admission/programs.html",
+          "accessStartTime": "Thu Jun 27 2024 23:36:25 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "sfu.ca/students/admission/programs.html",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 9,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916845129465933",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556622530000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.sfu.ca/students/admission/admission-requirements.html",
+          "accessStartTime": "Thu Jun 27 2024 23:36:35 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Requirements - Undergraduate Admission - Simon Fraser University",
+          "timeActive": 20,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 20,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916845301432397",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556622698000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.sfu.ca/",
+          "accessStartTime": "Thu Jun 27 2024 23:36:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Simon Fraser University",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916845478641737",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556622866000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=sfu&client=firefox-b-d&sca_esv=cd08aac0b4846c63&ei=wFl-ZvG5Oc-_0PEP29GlmQ4&ved=0ahUKEwjxmaGo1_2GAxXPHzQIHdtoKeMQ4dUDCBA&uact=5&oq=sfu&gs_lp=Egxnd3Mtd2l6LXNlcnAiA3NmdTIKEAAYgAQYQxiKBTIQEAAYgAQYsQMYQxiDARiKBTIQEAAYgAQYsQMYQxiDARiKBTIZEC4YgAQYsQMYQxiDARjHARiKBRiOBRivATIQEC4YgAQYsQMYQxiDARiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIQEAAYgAQYsQMYQxiDARiKBTIKEAAYgAQYQxiKBTIQEC4YgAQYQxjHARiKBRivAUi2UVDXR1jZTHACeACQAQCYAVSgAecBqgEBM7gBA8gBAPgBAZgCBaACkAKoAhTCAhoQABiABBi0AhjlAhi3AxiKBRjqAhiKA9gBAcICFhAuGAMYtAIY5QIY6gIYjAMYjwHYAQLCAhYQABgDGLQCGOUCGOoCGIwDGI8B2AECwgITEC4YgAQYQxjHARiKBRiOBRivAcICChAuGIAEGEMYigXCAhEQLhiABBixAxjRAxiDARjHAcICDhAAGIAEGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg0QABiABBixAxhDGIoFmAMLugYECAEYB7oGBggCEAEYCpIHATWgB74r&sclient=gws-wiz-serp",
+          "accessStartTime": "Thu Jun 27 2024 23:36:56 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?q=sfu&client=firefox-b-d&sca_esv=cd08aac0b4846c63&ei=wFl-ZvG5Oc-_0PEP29GlmQ4&ved=0",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401916845652705353",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719556623030000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=sfu+students+experience+working+as+co-op+in+worksafebc&client=firefox-b-d&sca_esv=cd08aac0b4846c63&ei=hVl-ZvOmBpbw0PEP36-xkAs&ved=0ahUKEwiz_dyL1_2GAxUWODQIHd9XDLIQ4dUDCBA&uact=5&oq=sfu+students+experience+working+as+co-op+in+worksafebc&gs_lp=Egxnd3Mtd2l6LXNlcnAiNnNmdSBzdHVkZW50cyBleHBlcmllbmNlIHdvcmtpbmcgYXMgY28tb3AgaW4gd29ya3NhZmViYzIHECEYoAEYCjIHECEYoAEYCjIEECEYFUjuvQFQ_gVYj7gBcAN4AJABAJgBZKABoBuqAQQ0Ni4yuAEDyAEA-AEBmAIyoALgHKgCFMICChAAGLADGNYEGEfCAh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBAcICGhAAGIAEGLQCGOUCGLcDGIoFGOoCGIoD2AEBwgIWEC4YAxi0AhjlAhjqAhiMAxiPAdgBAsICFhAAGAMYtAIY5QIY6gIYjAMYjwHYAQLCAgoQABiABBhDGIoFwgITEC4YgAQYQxjHARiKBRiOBRivAcICCxAuGIAEGJECGIoFwgIQEC4YgAQYQxjHARiKBRivAcICERAuGIAEGLEDGNEDGIMBGMcBwgIOEAAYgAQYsQMYgwEYigXCAhAQABiABBixAxhDGIMBGIoFwgIZEC4YgAQYsQMYQxiDARjHARiKBRiOBRivAcICERAuGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAhQQLhiABBixAxiDARjHARiOBRivAcICCxAuGIAEGLEDGIMBwgILEC4YgAQYxwEYrwHCAggQABiABBixA8ICBRAAGIAEwgILEAAYgAQYkQIYigXCAhEQLhiABBiRAhjHARiKBRivAcICBhAAGBYYHsICCBAAGBYYChgewgILEAAYgAQYhgMYigXCAggQABiABBiiBMICBRAhGKABwgIFECEYnwWYAwqIBgGQBgi6BgQIARgHugYGCAIQARgKkgcENDcuM6AH-McC&sclient=gws-wiz-serp#ip=1",
+          "accessStartTime": "Thu Jun 27 2024 23:36:57 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "sfu students experience working as co-op in worksafebc - Google Search",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "402246257293131841",
+          "collection": {
+            "@ref": {
+              "id": "urubyraven02",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719870775610000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.glassdoor.ca/Interview/WorkSafeBC-Interview-Questions-E150646.htm",
+          "accessStartTime": "Mon Jul 01 2024 14:52:49 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "67 WorkSafeBC Interview Questions & Answers (2024) | Glassdoor",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "worksafebc",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": "worksafebc"
+        }
+      }
+    }
+  ]
+}

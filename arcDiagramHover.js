@@ -1,4 +1,4 @@
-fetch('someDocuments.json')  // Fetch the JSON data
+fetch('allDocuments01.json')  // Fetch the JSON data
   .then(response => response.json())
   .then(jsonData => {
     const data = jsonData.data; // access data array in JSON file
@@ -51,19 +51,11 @@ fetch('someDocuments.json')  // Fetch the JSON data
       "padding": 5,
       "signals": [
         {
-          "name": "hoverNode",
+          "name": "hover",
           "value": null,
           "on": [
-            {"events": "symbol:mouseover", "update": "datum"},
-            {"events": "symbol:mouseout", "update": "null"}
-          ]
-        },
-        {
-          "name": "hoverPath",
-          "value": null,
-          "on": [
-            {"events": "path:mouseover", "update": "datum"},
-            {"events": "path:mouseout", "update": "null"}
+            {"events": "symbol:mouseover, path:mouseover", "update": "datum"},
+            {"events": "symbol:mouseout, path:mouseout", "update": "null"}
           ]
         }
       ],
@@ -87,17 +79,23 @@ fetch('someDocuments.json')  // Fetch the JSON data
         {
           "name": "linkWidth",
           "type": "linear",
-          "range": [1, 15],
+          "range": [1, 10],
           "domain": {"data": "links", "field": "value"},
-          "zero": true,
-          "nice": true
+          "zero": true,  // Ensure that the scale starts at zero
+          "nice": true   // Ensure that the scale nicely fits the data range
         },
         {
           "name": "color",
           "type": "ordinal",
           "domain": categories,
-          "range": ["#ecc5b7", "#d7947d", "#b97763", "#7eaba6", "#5abba7", "#6ad6e7"]
-        }
+          "range": ["#ecc5b7", "#d7947d", "#b97763", "#7eaba6", "#5abba7", "#6ad6e7"]  
+        },
+        {
+          "name": "name",
+          "type": "ordinal",
+          "domain": categories,
+          "range": ["Articles", "Lectures and Demos", "Step By Step Tutorials", "Discussions and Help Seeking Forums", "AI Help", "My Work"]
+        },
       ],
       "marks": [
         {
@@ -119,11 +117,11 @@ fetch('someDocuments.json')  // Fetch the JSON data
             },
             "update": {
               "strokeOpacity": [
-                {"test": "hoverNode && (hoverNode.name === datum.source || hoverNode.name === datum.target)", "value": 1},
-                {"value": 0.6}
+                {"test": "hover && (hover.source === datum.source && hover.target === datum.target)", "value": 1},
+                {"value": 0.7}
               ],
               "tooltip": [
-                {"test": "hoverNode && (hoverNode.name === datum.source || hoverNode.name === datum.target)", "signal": "{'Start': datum.source, 'End': datum.target, 'Count': datum.value}"}
+                {"test": "hover && (hover.source === datum.source && hover.target === datum.target)", "signal": "{'Start': datum.source, 'End': datum.target, 'Transitions': datum.value}"}
               ]
             }
           }
@@ -137,12 +135,12 @@ fetch('someDocuments.json')  // Fetch the JSON data
               "y": {"value": 150},
               "size": {"value": 300},
               "fill": {"scale": "color", "field": "name"},
-              "tooltip": {"signal": "datum.label"},
+              "tooltip": {"signal": "datum.label", "scale":"name", "field": "name"}, //Manually typed category names
               "order": {"value": 2}
             },
             "update": {
               "fillOpacity": [
-                {"test": "hoverNode && hoverNode.name === datum.name", "value": 1},
+                {"test": "hover && hover.name === datum.name", "value": 1},
                 {"value": 0.7}
               ]
             }
@@ -157,18 +155,17 @@ fetch('someDocuments.json')  // Fetch the JSON data
               "y": {"value": 190},
               "align": {"value": "center"},
               "baseline": {"value": "middle"},
-              "text": {"field": "label"},
+              // "text": {"field": "label"}, // Add back in for labels
               "fontSize": {"value": 12},
               "fontWeight": {"value": "normal"},
               "fill": {"value": "black"},
               "angle": {"signal": "-45"},
-              "order": {"value": 3}
+              "order": {"value": 3}  // Ensure text labels are rendered above symbols and paths
             }
           }
         }
       ]
     };
-
     vegaEmbed('#vis', spec).catch(console.error);
   })
   .catch(error => console.error('Error fetching JSON:', error));

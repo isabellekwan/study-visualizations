@@ -1,0 +1,3900 @@
+{
+  "data": [
+    {
+      "ref": {
+        "@ref": {
+          "id": "401252922102382669",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718923997635000,
+      "data": {
+        "siteInfo": {
+          "url": "https://en.wikipedia.org/wiki/Wiki",
+          "accessStartTime": "Thu Jun 20 2024 15:48:15 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Wiki - Wikipedia",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401252922307903565",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719002592285000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=clip+model",
+          "accessStartTime": "Fri Jun 21 2024 13:31:50 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=clip+model",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401252922494550089",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718923997633000,
+      "data": {
+        "siteInfo": {
+          "url": "https://medium.com/@paluchasz/understanding-openais-clip-model-6b52bade3fa3",
+          "accessStartTime": "Thu Jun 20 2024 15:46:35 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Understanding OpenAI’s CLIP model | by Szymon Palucha | Medium",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "clip-model-process-explained",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": "clip-model-process-explained"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253266153799748",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286138870000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=youtube",
+          "accessStartTime": "Mon Jun 24 2024 19:48:27 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=youtube",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 2,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253266326814785",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718923997637000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/?themeRefresh=1",
+          "accessStartTime": "Thu Jun 20 2024 15:45:51 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "YouTube",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253266495635524",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511043453000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/",
+          "accessStartTime": "Thu Jun 27 2024 10:51:40 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "YouTube",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253266627756100",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718923997560000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/results?search_query=text+to+image+model",
+          "accessStartTime": "Thu Jun 20 2024 15:46:03 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "YouTube",
+          "timeActive": 12,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 12,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253266750439489",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719003545990000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=9YrYDqhJdPw",
+          "accessStartTime": "Fri Jun 21 2024 13:47:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "text to image model - YouTube",
+          "timeActive": 4,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 11,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253266911920196",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718923997634000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=-lz30by8-sU",
+          "accessStartTime": "Thu Jun 20 2024 15:46:26 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Text-to-image generation explained - YouTube",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253267076546628",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718923997638000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=1CIpzeNxIhU",
+          "accessStartTime": "Thu Jun 20 2024 15:46:31 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Stable Diffusion in Code (AI Image Generation) - Computerphile - YouTube",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253267349176385",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718924429326000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=image+embedding+",
+          "accessStartTime": "Thu Jun 20 2024 15:46:47 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=image+embedding+",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253267466616900",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718924416020000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=image+embedding+#ip=1",
+          "accessStartTime": "Thu Jun 20 2024 15:46:51 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "image embedding - Google Search",
+          "timeActive": 7,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 7,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253267638583361",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719465781805000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/help/comments/ow7ude/how_to_embed_images_in_text_post/?rdt=48328",
+          "accessStartTime": "Thu Jun 20 2024 15:47:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "reddit.com/r/help/comments/ow7ude/how_to_embed_images_in_text_post/?rdt=48328",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 13,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253267770703940",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718924407790000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=image+embedding+post&client=firefox-b-d&sca_esv=dfa5edaadff8a781&sca_upv=1&ei=V7F0ZsL4CNiy0PEP3Zer2AM&ved=0ahUKEwiCgIC4oeuGAxVYGTQIHd3LCjsQ4dUDCBA&uact=5&oq=image+embedding+post&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGltYWdlIGVtYmVkZGluZyBwb3N0MggQABgWGB4YDzILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIwhJQZ1iHDXABeAGQAQCYAVSgAbsCqgEBNbgBA8gBAPgBAZgCBqAC1ALCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAAGIAEGEMYigXCAgUQABiABMICBhAAGBYYHpgDAIgGAZAGCpIHATagB7Ug&sclient=gws-wiz-serp",
+          "accessStartTime": "Thu Jun 20 2024 15:47:15 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?q=image+embedding+post&client=firefox-b-d&sca_esv=dfa5edaadff8a781&sca_upv=1&ei=V7",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253267898630212",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718924426340000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=chatgpt&client=firefox-b-d&sca_esv=dfa5edaadff8a781&sca_upv=1&ei=YrF0ZqLeJpCA0PEPooG8-AM&ved=0ahUKEwiil729oeuGAxUQADQIHaIADz8Q4dUDCBA&uact=5&oq=chatgpt&gs_lp=Egxnd3Mtd2l6LXNlcnAiB2NoYXRncHQyDhAAGIAEGJECGLEDGIoFMg0QABiABBixAxhDGIoFMgsQABiABBiRAhiKBTINEAAYgAQYsQMYQxiKBTIKEAAYgAQYQxiKBTIQEAAYgAQYsQMYQxiDARiKBTIKEAAYgAQYQxiKBTIQEAAYgAQYsQMYQxiDARiKBTILEAAYgAQYsQMYgwEyCBAAGIAEGLEDSJIkUMUDWJ0hcAN4AZABAZgBhQOgAeEHqgEGMTAuMy0xuAEDyAEA-AEBmAINoAKYBcICChAAGLADGNYEGEfCAhEQLhiABBiRAhjRAxjHARiKBcICBRAuGIAEwgIREC4YgAQYsQMY0QMYgwEYxwHCAiAQLhiABBiRAhjRAxjHARiKBRiXBRjcBBjeBBjgBNgBAcICDRAAGIAEGLEDGIMBGArCAhMQLhiABBixAxjRAxiDARjHARgKwgIQEC4YgAQYsQMY0QMYxwEYCsICEBAAGIAEGLEDGIMBGIoFGArCAgcQABiABBgKwgIKEAAYgAQYsQMYCsICBRAAGIAEwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICEBAuGIAEGEMYxwEYigUYrwGYAwCIBgGQBgi6BgYIARABGBSSBwIxM6AH208&sclient=gws-wiz-serp",
+          "accessStartTime": "Thu Jun 20 2024 15:47:23 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?q=chatgpt&client=firefox-b-d&sca_esv=dfa5edaadff8a781&sca_upv=1&ei=YrF0ZqLeJpCA0PE",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253268026556481",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511043676000,
+      "data": {
+        "siteInfo": {
+          "url": "https://chatgpt.com/",
+          "accessStartTime": "Thu Jun 27 2024 10:51:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "chatgpt.com/",
+          "timeActive": 53,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 1,
+          "categoryName": "ai_help",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253268153434180",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719003763945000,
+      "data": {
+        "siteInfo": {
+          "url": "https://openai.com/index/chatgpt/",
+          "accessStartTime": "Fri Jun 21 2024 13:59:45 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Introducing ChatGPT | OpenAI",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 1,
+          "categoryName": "ai_help",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253268415578180",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719371699440000,
+      "data": {
+        "siteInfo": {
+          "url": "about:debugging#/runtime/this-firefox",
+          "accessStartTime": "Tue Jun 25 2024 20:14:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Debugging - Runtime / this-firefox",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253268550844481",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718924397506000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.figma.com/resource-library/design-basics/",
+          "accessStartTime": "Thu Jun 20 2024 15:48:29 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "figma.com/resource-library/design-basics/",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 11,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253268682965060",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718924397395000,
+      "data": {
+        "siteInfo": {
+          "url": "https://designlab.com/figma-101-course/introduction-to-figma",
+          "accessStartTime": "Thu Jun 20 2024 15:48:43 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Figma 101: Introduction to Figma | Designlab",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 13,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253268819279940",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719465782390000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/FigmaDesign/comments/12lz6wq/advice_to_learn_design_with_figma_in_a_short_time/",
+          "accessStartTime": "Thu Jun 20 2024 15:48:57 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "reddit.com/r/FigmaDesign/comments/12lz6wq/advice_to_learn_design_with_figma_in_a_short_time/",
+          "timeActive": 7,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 7,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253268956643396",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718924422658000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=how+to+learn+figma",
+          "accessStartTime": "Thu Jun 20 2024 15:49:04 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "how to learn figma - Google Search",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253269092958273",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718924434000000,
+      "data": {
+        "siteInfo": {
+          "url": "https://bootcamp.uxdesign.cc/how-to-learn-figma-from-scratch-e68c1c2c65ec?gi=6ffbc4d8db3a",
+          "accessStartTime": "Thu Jun 20 2024 15:49:09 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How to learn figma from scratch?. Figma is a powerful design tool that… | by jatin bisht | Bootcamp",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401253269226127428",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1718997572523000,
+      "data": {
+        "siteInfo": {
+          "url": "https://bootcamp.uxdesign.cc/how-to-learn-figma-from-scratch-e68c1c2c65ec",
+          "accessStartTime": "Fri Jun 21 2024 12:19:30 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How to learn figma from scratch?. Figma is a powerful design tool that… | by jatin bisht | Bootcamp",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 32,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401330606612414529",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511671660000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-resources-overview.netlify.app/",
+          "accessStartTime": "Thu Jun 27 2024 10:57:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Resource-based overview",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401330606774943812",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719465974230000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-topics-overview.netlify.app/",
+          "accessStartTime": "Wed Jun 26 2024 22:25:45 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Milestones Topics Overview",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401333932391399497",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719465974063000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-calendar-overview.netlify.app/",
+          "accessStartTime": "Wed Jun 26 2024 22:25:44 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Vite App",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401334141506814025",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719510607690000,
+      "data": {
+        "siteInfo": {
+          "url": "https://openai.com/index/clip/",
+          "accessStartTime": "Thu Jun 27 2024 10:45:43 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "openai.com/index/clip/",
+          "timeActive": 1,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "cite-this-paper-later",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": "cite-this-paper-later"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401334141718626381",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719002582586000,
+      "data": {
+        "siteInfo": {
+          "url": "https://arxiv.org/abs/2103.00020",
+          "accessStartTime": "Fri Jun 21 2024 13:15:05 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "[2103.00020] Learning Transferable Visual Models From Natural Language Supervision",
+          "timeActive": 76,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "read-more-about-",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": "read-more-about-"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401334222335246409",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719465973730000,
+      "data": {
+        "siteInfo": {
+          "url": "https://arxiv.org/pdf/2103.00020",
+          "accessStartTime": "Wed Jun 26 2024 22:25:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "PDF.js viewer",
+          "timeActive": 2,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "cite-this-paper-later",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": "cite-this-paper-later"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401335763710509129",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286352720000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=8sVgLz3-W_s",
+          "accessStartTime": "Mon Jun 24 2024 20:31:23 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "youtube.com/watch?v=8sVgLz3-W_s",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401335764039761993",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719002569846000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=GLa7z5rkSf4",
+          "accessStartTime": "Fri Jun 21 2024 13:31:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "youtube.com/watch?v=GLa7z5rkSf4",
+          "timeActive": 15,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401335764202291273",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719003546315000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=fGwH2YoQkDM",
+          "accessStartTime": "Fri Jun 21 2024 13:49:14 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "OpenAI CLIP Explained | Multi-modal ML - YouTube",
+          "timeActive": 296,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401336902161006669",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719003545826000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=chatgpr",
+          "accessStartTime": "Fri Jun 21 2024 13:44:19 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=chatgpr",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401336902849921101",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719003546485000,
+      "data": {
+        "siteInfo": {
+          "url": "https://auth.openai.com/authorize?client_id=TdJIcbe16WoTHtN95nyywh5E4yOo6ItG&scope=openid%20email%20profile%20offline_access%20model.request%20model.read%20organization.read%20organization.write&response_type=code&redirect_uri=https%3A%2F%2Fchatgpt.com%2Fapi%2Fauth%2Fcallback%2Flogin-web&audience=https%3A%2F%2Fapi.openai.com%2Fv1&device_id=049e65ce-9ab1-4ad2-b219-29b21cd7fa11&prompt=login&screen_hint=signup&ext-statsig-tier=production&ext-oai-did=049e65ce-9ab1-4ad2-b219-29b21cd7fa11&state=5jB2WEINCyE8uKoDoBGA54nkJFPMrxUG2iHfGNVaSNA&code_challenge=BBASvELtjIV269RqZ3nR8TQvJSViZMlY9JLrsn6CoNk&code_challenge_method=S256",
+          "accessStartTime": "Fri Jun 21 2024 13:58:26 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Login - OpenAI",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401336903029227597",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511780042000,
+      "data": {
+        "siteInfo": {
+          "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1577527060%3A1719003508701078&client_id=799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com&ddm=0&o2v=1&redirect_uri=https%3A%2F%2Fauth0.openai.com%2Flogin%2Fcallback&response_type=code&scope=email+profile&service=lso&state=kYuH51XD95LozQBk1szRoBu-NIeF9zWa&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMcRQy4-J8JoW5f5HyFLK4bcH5NNiEWidepxwgATafICJSAz6TZ3kGQWyXSjk9UvPZidqfVl6j8qsTxh99NbmYNF4BTBvf7LO1I50joGp6wtRlKgwBcx4iFZODmseQ4hIeYw0l1dfQIrWT0M6BvWgFMa7i4K7rgmFid3_lUa0rnDKsRQeEZ_ugt6NZwixUeTAaB6VtBghUeIB_Zr0nKfqYQhF7xNv-EPzACSVosqPoqQwMkZCtlwNgislDKh0ve2L1S5H-tF2dvj28R5-I8sdGnAep4-anZVAGxSeondSNvdRrache2EBWjz9WFfD-BvaZu5SkdDmG9sdQ6nSra3VltjCcnHBjn5oj10LJqJ79YMrimIcz81Q-mNRPMdEBo-EBg298pux0i13kTKb-NgAZ8xSwGm_FXgkIKp5gTqiz1n7p1g8Rb3lpfpd6JCIS5uYtoEehSOOp2z4-2NHoyB-lFNkGXDQ%26flowName%3DGeneralOAuthFlow%26as%3DS1577527060%253A1719003508701078%26client_id%3D799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fauth0.openai.com&rart=ANgoxceJfEG7nC-oMuYGuBI9uA4ahjz3RjTAjXMgIRJSMNBhOjci-EJNH5ED2F0gBcjEZV1g-06TGwpukVHTFD4BiV1T7RBa4gWLsbNS3gX8DUaIJJ_Z8z4",
+          "accessStartTime": "Fri Jun 21 2024 13:58:28 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1577527060%3A1719003508701078&client_id",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 13,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401336903250477129",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719003559425000,
+      "data": {
+        "siteInfo": {
+          "url": "https://accounts.google.com/v3/signin/challenge/pk?TL=AC3PFD7mh8-ml2mXUKvMlPUrIySiR4t2jmgmTOiqiaXYvExODuoQabJAUyjaEl1s&app_domain=https%3A%2F%2Fauth0.openai.com&checkConnection=youtube%3A127&checkedDomains=youtube&cid=1&client_id=799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMcRQy4-J8JoW5f5HyFLK4bcH5NNiEWidepxwgATafICJSAz6TZ3kGQWyXSjk9UvPZidqfVl6j8qsTxh99NbmYNF4BTBvf7LO1I50joGp6wtRlKgwBcx4iFZODmseQ4hIeYw0l1dfQIrWT0M6BvWgFMa7i4K7rgmFid3_lUa0rnDKsRQeEZ_ugt6NZwixUeTAaB6VtBghUeIB_Zr0nKfqYQhF7xNv-EPzACSVosqPoqQwMkZCtlwNgislDKh0ve2L1S5H-tF2dvj28R5-I8sdGnAep4-anZVAGxSeondSNvdRrache2EBWjz9WFfD-BvaZu5SkdDmG9sdQ6nSra3VltjCcnHBjn5oj10LJqJ79YMrimIcz81Q-mNRPMdEBo-EBg298pux0i13kTKb-NgAZ8xSwGm_FXgkIKp5gTqiz1n7p1g8Rb3lpfpd6JCIS5uYtoEehSOOp2z4-2NHoyB-lFNkGXDQ%26flowName%3DGeneralOAuthFlow%26as%3DS1577527060%253A1719003508701078%26client_id%3D799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com%23&ddm=0&dsh=S1577527060%3A1719003508701078&flowName=GeneralOAuthFlow&o2v=1&opparams=%253F&pstMsg=1&rart=ANgoxceJfEG7nC-oMuYGuBI9uA4ahjz3RjTAjXMgIRJSMNBhOjci-EJNH5ED2F0gBcjEZV1g-06TGwpukVHTFD4BiV1T7RBa4gWLsbNS3gX8DUaIJJ_Z8z4&redirect_uri=https%3A%2F%2Fauth0.openai.com%2Flogin%2Fcallback&response_type=code&scope=email%20profile&service=lso&state=kYuH51XD95LozQBk1szRoBu-NIeF9zWa",
+          "accessStartTime": "Fri Jun 21 2024 13:58:42 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Sign in - Google Accounts",
+          "timeActive": 7,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 7,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401336903432929353",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719003547030000,
+      "data": {
+        "siteInfo": {
+          "url": "https://accounts.google.ca/accounts/SetSID",
+          "accessStartTime": "Fri Jun 21 2024 13:58:49 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Redirecting",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401336903767425097",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719004188525000,
+      "data": {
+        "siteInfo": {
+          "url": "https://chatgpt.com/c/27b30c3d-df9d-4671-b6ca-e9e43d184683",
+          "accessStartTime": "Fri Jun 21 2024 13:58:56 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "ChatGPT",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "ai_help",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401337130690805833",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719003763775000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=chatgpt",
+          "accessStartTime": "Fri Jun 21 2024 13:59:43 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=chatgpt",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401337131212996681",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719371556050000,
+      "data": {
+        "siteInfo": {
+          "url": "https://chatgpt.com/c/4c70c3be-8bfa-4edb-9091-6658e7c4d089",
+          "accessStartTime": "Fri Jun 21 2024 14:00:28 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "ChatGPT",
+          "timeActive": 489,
+          "isExactBookmark": true,
+          "like": true,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "ai_help",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633222724681796",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286266730000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=z1PBn53BIE0",
+          "accessStartTime": "Mon Jun 24 2024 20:30:34 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "procreate animation tutorial - YouTube",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633222853656641",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286174754000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/results?search_query=procreate+animation+tutorial",
+          "accessStartTime": "Mon Jun 24 2024 19:56:49 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Easy Procreate Animation Tutorial 2022 - Learn to Animate Step by Step - YouTube",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 14,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633222992068673",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286266600000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=4rkeTKoAKYE",
+          "accessStartTime": "Mon Jun 24 2024 20:30:15 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "procreate animation tutorial - YouTube",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "watch-later",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": "watch-later"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633223116849220",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286174752000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/results?search_query=procreate+animation+frame+and+layer",
+          "accessStartTime": "Mon Jun 24 2024 20:05:40 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How to Animate in Procreate | Procreate Animation Tutorial - YouTube",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633223251066945",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286305570000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=Lxw-2-U_q-g",
+          "accessStartTime": "Mon Jun 24 2024 20:05:44 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "procreate animation frame and layer - YouTube",
+          "timeActive": 142,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 142,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633223383187524",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286174751000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/results?search_query=procreate+animation+beginner+tutorial",
+          "accessStartTime": "Mon Jun 24 2024 20:08:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How to use layer groups to create multi-layer animations in #Procreate - #Tutorial - YouTube",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 6,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633223518453825",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286299050000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=drMzIXX4Zp4",
+          "accessStartTime": "Mon Jun 24 2024 20:08:13 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "procreate animation beginner tutorial - YouTube",
+          "timeActive": 228,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 228,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633223652671556",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286174755000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/@Shakemyart",
+          "accessStartTime": "Mon Jun 24 2024 20:12:05 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Let's animate frame-by-frame liquid wave in Procreate [tutorial] - YouTube",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633223788986436",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286174715000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/@Shakemyart/videos",
+          "accessStartTime": "Mon Jun 24 2024 20:12:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Shake my art - YouTube",
+          "timeActive": 16,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 16,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633223938932804",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286352330000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=EspNLRs967w",
+          "accessStartTime": "Mon Jun 24 2024 20:30:44 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Shake my art - YouTube",
+          "timeActive": 26,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "userful-youtuber",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": "userful-youtuber"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633224119287876",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286312190000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=jLHJSUxzmOY",
+          "accessStartTime": "Mon Jun 24 2024 20:18:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Animation along a path using the example of a paper airplane [Procreate] - YouTube",
+          "timeActive": 107,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 107,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633224256651332",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286174727000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=D-Z9dFVEFRY",
+          "accessStartTime": "Mon Jun 24 2024 20:20:46 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Frame-by-frame animation of 3 types of sparkles [Step-by-step tutorial] - YouTube",
+          "timeActive": 17,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 17,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401633224469512257",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719286291245000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=pF--YKCCUMw&list=PLqKRc0Oi7q20wxXVUNiS15S2MvtSqOtLV",
+          "accessStartTime": "Mon Jun 24 2024 20:21:03 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Animation of a splash ball inspired by Naruto [Frame-by-frame tutorial] - YouTube",
+          "timeActive": 282,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 282,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401720407722295361",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719369607782000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/results?search_query=image+to+image+generation+how+it+works",
+          "accessStartTime": "Tue Jun 25 2024 19:01:39 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "YouTube",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401720407898456132",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719371698185000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=Rke0V_VkF3c",
+          "accessStartTime": "Tue Jun 25 2024 20:11:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "image to image generation how it works - YouTube",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401720408027430977",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719371698390000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/@Gonkee",
+          "accessStartTime": "Tue Jun 25 2024 20:12:11 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How Stable Diffusion Works (AI Image Generation) - YouTube",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401720408184717380",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719369607785000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=sFztPP9qPRc&t=302s",
+          "accessStartTime": "Tue Jun 25 2024 19:34:42 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Gonkee - YouTube",
+          "timeActive": 4,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401720431777677380",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719369607784000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/@Gonkee/videos",
+          "accessStartTime": "Tue Jun 25 2024 19:34:47 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Gonkee - YouTube",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401720431915040833",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719371698735000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=sFztPP9qPRc&t=305s",
+          "accessStartTime": "Tue Jun 25 2024 20:13:42 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Gonkee - YouTube",
+          "timeActive": 17,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "understand-this-concept-",
+          "totalTime": 15,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": "understand-this-concept-"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401722937519898701",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511782690000,
+      "data": {
+        "siteInfo": {
+          "url": "https://chatgpt.com/c/c3d9d0b2-1adc-414f-9679-630baff7dac8",
+          "accessStartTime": "Tue Jun 25 2024 19:57:41 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "ChatGPT",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "ai_help",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401722938654457933",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719465585950000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/results?search_query=How+Stable+Diffusion+Works+(AI+Image+Generation)",
+          "accessStartTime": "Tue Jun 25 2024 20:13:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How Stable Diffusion Works (AI Image Generation) - YouTube",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401722939025653837",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719465585963000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=sFztPP9qPRc&t=1380s",
+          "accessStartTime": "Tue Jun 25 2024 20:14:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How Stable Diffusion Works (AI Image Generation) - YouTube",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819698728009793",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719465783380000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/META_AI/comments/1atd9nm/my_meta_ai_has_generated_images_for_me_but_now_it/",
+          "accessStartTime": "Wed Jun 26 2024 21:46:49 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "reddit.com/r/META_AI/comments/1atd9nm/my_meta_ai_has_generated_images_for_me_but_now_it/",
+          "timeActive": 7,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819698898927684",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719463976690000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=why+image+you+generted+is+not+what+you+want%3F",
+          "accessStartTime": "Wed Jun 26 2024 21:46:56 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=why+image+you+generted+is+not+what+you+want%3F",
+          "timeActive": 33,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819699035242561",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719463976828000,
+      "data": {
+        "siteInfo": {
+          "url": "https://theconversation.com/if-ai-image-generators-are-so-smart-why-do-they-struggle-to-write-and-count-208485",
+          "accessStartTime": "Wed Jun 26 2024 21:47:42 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "If AI image generators are so smart, why do they struggle to write and count?",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819699219791940",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719463976990000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.zachcooleyphoto.com/blog/identifying-ai-images",
+          "accessStartTime": "Wed Jun 26 2024 21:47:45 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "You Can’t Identify AI Images as Well as You Think — Zach Cooley Photo",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819699346669633",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719463977120000,
+      "data": {
+        "siteInfo": {
+          "url": "https://community.adobe.com/t5/stock-contributors-discussions/rejections-for-ai-generated-images-featuring-people-who-do-not-exist/td-p/13416651",
+          "accessStartTime": "Wed Jun 26 2024 21:47:49 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Solved: Rejections for AI generated images featuring peopl... - Adobe Community - 13416651",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819699495567425",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719463977265000,
+      "data": {
+        "siteInfo": {
+          "url": "https://nildatoprakli.medium.com/why-i-stopped-generating-ai-generated-visual-2391a1f1106c",
+          "accessStartTime": "Wed Jun 26 2024 21:48:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Why I stopped using AI-generated visuals? | by Nilda Topraklı | Medium",
+          "timeActive": 31,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819699641319489",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719463977405000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=why+image+you+generted+is+not+what+you+want%3F#ip=1",
+          "accessStartTime": "Wed Jun 26 2024 21:48:32 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "why image you generted is not what you want? - Google Search",
+          "timeActive": 21,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819699780780100",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719463977540000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/StableDiffusion/comments/ya7whd/why_artists_are_unhappy_with_ai/",
+          "accessStartTime": "Wed Jun 26 2024 21:49:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Why artists are unhappy with AI. : r/StableDiffusion",
+          "timeActive": 105,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819699962183745",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719463977710000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/aiArt/comments/18fj1lb/do_you_think_ai_will_ever_replace_artists/",
+          "accessStartTime": "Wed Jun 26 2024 21:50:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Do you think AI will ever replace artists? : r/aiArt",
+          "timeActive": 32,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819700108984385",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719463977850000,
+      "data": {
+        "siteInfo": {
+          "url": "https://vanceai.com/help/image-process/what-if-the-output-image-is-unsatisfying/",
+          "accessStartTime": "Wed Jun 26 2024 21:51:25 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "What if the output image is unsatisfying?",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819700250542145",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719463977980000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=ai+image+unsatisfied&client=firefox-b-d&sca_esv=9c9e4fa4ae231ebf&sxsrf=ADLYWILOTBJewwOHxFrK-fDza7Fd3SEEbw%3A1719463605039&ei=te58ZqGOAvCDm9cPktqYoAQ&oq=ai+image+unsati&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2FpIGltYWdlIHVuc2F0aSoCCAAyBRAhGKABMgUQIRigATIFECEYoAFIs1JQrQZY8UFwBHgBkAEAmAGlAqABqg-qAQYxMS42LjG4AQHIAQD4AQGYAhagAoEQqAIUwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAgQQIxgnwgILEAAYgAQYkQIYigXCAgoQABiABBhDGIoFwgIIEAAYgAQYsQPCAg4QLhiABBixAxjRAxjHAcICDRAAGIAEGLEDGEMYigXCAgcQIxgnGOoCwgIWEAAYAxi0AhjlAhjqAhiMAxiPAdgBAcICFhAuGAMYtAIY5QIY6gIYjAMYjwHYAQHCAhMQLhiABBixAxjRAxhDGMcBGIoFwgIOEAAYgAQYkQIYsQMYigXCAgUQABiABMICChAAGIAEGBQYhwLCAgcQABiABBgKwgIGEAAYFhgewgILEAAYgAQYhgMYigXCAggQABiABBiiBMICBxAhGKABGAqYAwbiAwUSATEgQIgGAZAGCLoGBggBEAEYC5IHBjE1LjYuMaAH0JIB&sclient=gws-wiz-serp",
+          "accessStartTime": "Wed Jun 26 2024 21:51:33 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "ai image unsatisfied - Google Search",
+          "timeActive": 25,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819700385808452",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464541465000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=understand+the+image+generated+by+ai&client=firefox-b-d&sca_esv=9c9e4fa4ae231ebf&sxsrf=ADLYWIJ9JQ8fYTN11x-TanwQwUystuODgw%3A1719463733459&ei=Ne98ZrffG-Ou0PEP9sva4Qg&ved=0ahUKEwj3zaXI_fqGAxVjFzQIHfalNowQ4dUDCBA&uact=5&oq=understand+the+image+generated+by+ai&gs_lp=Egxnd3Mtd2l6LXNlcnAiJHVuZGVyc3RhbmQgdGhlIGltYWdlIGdlbmVyYXRlZCBieSBhaTIFECEYoAEyBRAhGJ8FMgUQIRifBTIFECEYnwUyBRAhGJ8FSM2SAVCKEVi0kAFwEXgBkAEAmAGbAaABtx-qAQQ0OC4zuAEDyAEA-AEBmAJEoAL_IKgCEsICChAAGLADGNYEGEfCAgcQIxgnGOoCwgIUEAAYgAQY4wQYtAIY6QQY6gLYAQHCAgoQIxiABBgnGIoFwgIQEC4YgAQY0QMYxwEYJxiKBcICBBAjGCfCAgsQABiABBiRAhiKBcICChAAGIAEGEMYigXCAggQABiABBixA8ICCxAuGIAEGNEDGMcBwgINEAAYgAQYsQMYQxiKBcICCBAuGIAEGLEDwgIKEC4YgAQYQxiKBcICBRAAGIAEwgIHECMYsQIYJ8ICEBAuGIAEGMcBGAoYjgUYrwHCAgcQLhiABBgKwgIKEAAYgAQYsQMYCsICBxAAGIAEGArCAgcQABiABBgNwgIOEC4YgAQYxwEYjgUYrwHCAg0QLhiABBixAxhDGIoFwgIKEAAYgAQYFBiHAsICBRAuGIAEwgIIEAAYChgNGB7CAggQABgIGA0YHsICCxAAGIAEGIYDGIoFwgIIEAAYFhgKGB7CAgYQABgWGB7CAggQABgWGB4YD8ICBxAhGKABGArCAgQQIRgVmAMHiAYBkAYIugYGCAEQARgBkgcENjUuM6AHxrQD&sclient=gws-wiz-serp",
+          "accessStartTime": "Wed Jun 26 2024 21:59:04 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?q=understand+the+image+generated+by+ai&client=firefox-b-d&sca_esv=9c9e4fa4ae231ebf",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401819700527366212",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464282150000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.linkedin.com/pulse/science-behind-ai-image-generation-how-works-simplifiedhq-ivmjc",
+          "accessStartTime": "Wed Jun 26 2024 21:52:02 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "The Science Behind AI Image Generation: How It Works",
+          "timeActive": 96,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "read-more-about-",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": "read-more-about-"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820019531448385",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464541160000,
+      "data": {
+        "siteInfo": {
+          "url": "https://medium.com/@artofai251/behind-the-pixels-understanding-the-technology-of-ai-image-generation-29aa5abc0594",
+          "accessStartTime": "Wed Jun 26 2024 21:59:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Behind the Pixels: Understanding the Technology of AI Image Generation | by Kerstin Petrick | Medium",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820019679297604",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464540500000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.unite.ai/generative-ai-increases-productivity-of-knowledge-workers/",
+          "accessStartTime": "Wed Jun 26 2024 21:58:02 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How Generative AI Increases The Productivity of Knowledge Workers - Unite.AI",
+          "timeActive": 32,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820019824001089",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464541290000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.unite.ai/beginners-guide-to-ai-image-generators/",
+          "accessStartTime": "Wed Jun 26 2024 21:59:02 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Beginner's Guide to AI Image Generators - Unite.AI",
+          "timeActive": 2,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820290239168580",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464540630000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.unite.ai/nightcafe-review-tutorial/",
+          "accessStartTime": "Wed Jun 26 2024 21:58:34 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "NightCafe Review & Tutorial (June 2024)",
+          "timeActive": 18,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820290390163524",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464540790000,
+      "data": {
+        "siteInfo": {
+          "url": "https://autogpt.net/how-are-ai-images-even-generated/",
+          "accessStartTime": "Wed Jun 26 2024 21:58:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How Are AI Images Even Generated?",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820291242655809",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464541600000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=understand+the+image+generated+by+ai&client=firefox-b-d&sca_esv=9c9e4fa4ae231ebf&sxsrf=ADLYWIJ9JQ8fYTN11x-TanwQwUystuODgw%3A1719463733459&ei=Ne98ZrffG-Ou0PEP9sva4Qg&ved=0ahUKEwj3zaXI_fqGAxVjFzQIHfalNowQ4dUDCBA&uact=5&oq=understand+the+image+generated+by+ai&gs_lp=Egxnd3Mtd2l6LXNlcnAiJHVuZGVyc3RhbmQgdGhlIGltYWdlIGdlbmVyYXRlZCBieSBhaTIFECEYoAEyBRAhGJ8FMgUQIRifBTIFECEYnwUyBRAhGJ8FSM2SAVCKEVi0kAFwEXgBkAEAmAGbAaABtx-qAQQ0OC4zuAEDyAEA-AEBmAJEoAL_IKgCEsICChAAGLADGNYEGEfCAgcQIxgnGOoCwgIUEAAYgAQY4wQYtAIY6QQY6gLYAQHCAgoQIxiABBgnGIoFwgIQEC4YgAQY0QMYxwEYJxiKBcICBBAjGCfCAgsQABiABBiRAhiKBcICChAAGIAEGEMYigXCAggQABiABBixA8ICCxAuGIAEGNEDGMcBwgINEAAYgAQYsQMYQxiKBcICCBAuGIAEGLEDwgIKEC4YgAQYQxiKBcICBRAAGIAEwgIHECMYsQIYJ8ICEBAuGIAEGMcBGAoYjgUYrwHCAgcQLhiABBgKwgIKEAAYgAQYsQMYCsICBxAAGIAEGArCAgcQABiABBgNwgIOEC4YgAQYxwEYjgUYrwHCAg0QLhiABBixAxhDGIoFwgIKEAAYgAQYFBiHAsICBRAuGIAEwgIIEAAYChgNGB7CAggQABgIGA0YHsICCxAAGIAEGIYDGIoFwgIIEAAYFhgKGB7CAgYQABgWGB7CAggQABgWGB4YD8ICBxAhGKABGArCAgQQIRgVmAMHiAYBkAYIugYGCAEQARgBkgcENjUuM6AHxrQD&sclient=gws-wiz-serp#ip=1",
+          "accessStartTime": "Wed Jun 26 2024 21:59:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "understand the image generated by ai - Google Search",
+          "timeActive": 17,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820291381067841",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464541730000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=the+image+generated+by+ai+is+not+good&client=firefox-b-d&sca_esv=9c9e4fa4ae231ebf&sxsrf=ADLYWIJhnow47PhXKKmFXS5uQpXUA4TDMA%3A1719463919080&ei=7-98Zr3OBMeS0PEPr72B-AM&ved=0ahUKEwj9geeg_vqGAxVHCTQIHa9eAD8Q4dUDCBA&uact=5&oq=the+image+generated+by+ai+is+not+good&gs_lp=Egxnd3Mtd2l6LXNlcnAiJXRoZSBpbWFnZSBnZW5lcmF0ZWQgYnkgYWkgaXMgbm90IGdvb2QyBRAhGKABMgUQIRigATIFECEYnwVI_FdQyw9YllZwBHgBkAEAmAGCAaABoxmqAQQzNi40uAEDyAEA-AEBmAIsoALNGsICChAAGLADGNYEGEfCAgoQIxiABBgnGIoFwgILEAAYgAQYkQIYigXCAg0QABiABBixAxhDGIoFwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIFEAAYgATCAgQQIxgnwgIOEC4YgAQYsQMY0QMYxwHCAgoQLhiABBhDGIoFwgIFEC4YgATCAggQABiABBixA8ICCxAuGIAEGLEDGIMBwgIOEC4YgAQYkQIY1AIYigXCAgsQLhiABBiRAhiKBcICCBAuGIAEGLEDwgIKEC4YgAQYFBiHAsICKRAuGIAEGJECGIoFGJcFGNwEGN4EGOAEGPQDGPEDGPUDGPYDGPcD2AEBwgIOEC4YgAQYxwEYjgUYrwHCAiAQLhiABBiXBRjcBBjeBBjgBBj0AxjxAxj1Axj2A9gBAcICChAAGIAEGBQYhwLCAgYQABgWGB7CAggQABgWGB4YD8ICChAAGBYYChgeGA_CAgsQABiABBiGAxiKBcICCBAAGBYYChgewgIKEAAYCBgNGB4YD8ICCBAAGIAEGKIEwgIEECEYFcICBxAhGKABGAqYAwCIBgGQBgi6BgYIARABGBSSBwQ0MC40oAe0sQM&sclient=gws-wiz-serp",
+          "accessStartTime": "Wed Jun 26 2024 21:59:24 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?q=the+image+generated+by+ai+is+not+good&client=firefox-b-d&sca_esv=9c9e4fa4ae231eb",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820291519479873",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464541860000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/Phobia/comments/webj9b/ai_generated_images_make_me_physically_uneasy_and/",
+          "accessStartTime": "Wed Jun 26 2024 21:59:42 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "AI generated images make me physically uneasy and very uncomfortable : r/Phobia",
+          "timeActive": 18,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820291669426241",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464542000000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/osr/comments/x78sb6/is_it_bad_form_to_use_ai_art/",
+          "accessStartTime": "Wed Jun 26 2024 22:00:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Is it bad form to use AI art? : r/osr",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820291898015809",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464542225000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/DungeonsAndDragons/comments/1aeprr8/is_it_morally_wrong_for_me_to_use_an_ai_art/",
+          "accessStartTime": "Wed Jun 26 2024 22:00:02 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Is it morally wrong for me to use an AI art generator to create character art for personal use? : r/",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820292038524996",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719464542350000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=the+image+generated+by+ai+is+not+good+enough+for+me&client=firefox-b-d&sca_esv=9c9e4fa4ae231ebf&sxsrf=ADLYWIIla9criVCuNbGg6elT82wIZkpklA%3A1719464364641&ei=rPF8ZunuJu2d0PEPlOKguA4&ved=0ahUKEwjp9KH1__qGAxXtDjQIHRQxCOcQ4dUDCBA&uact=5&oq=the+image+generated+by+ai+is+not+good+enough+for+me&gs_lp=Egxnd3Mtd2l6LXNlcnAiM3RoZSBpbWFnZSBnZW5lcmF0ZWQgYnkgYWkgaXMgbm90IGdvb2QgZW5vdWdoIGZvciBtZTIFECEYoAFIghdQ8QVY6RRwAXgBkAEAmAGDAaABjgmqAQQxMy4xuAEDyAEA-AEBmAIPoAK-CcICChAAGLADGNYEGEfCAgUQIRifBcICBxAhGKABGAqYAwCIBgGQBgiSBwQxNC4xoAekNQ&sclient=gws-wiz-serp",
+          "accessStartTime": "Wed Jun 26 2024 22:00:04 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "the image generated by ai is not good enough for me - Google Search",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401820292171694148",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719465973896000,
+      "data": {
+        "siteInfo": {
+          "url": "https://medium.com/graphic-language/my-case-against-ai-ad6489e124f2",
+          "accessStartTime": "Wed Jun 26 2024 22:25:42 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "The Case Against AI-Generated Images | by Brandon Moore | Graphic Language | Medium",
+          "timeActive": 2,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "cite-this-in-paper",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": "cite-this-in-paper"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401821535663292493",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719465728340000,
+      "data": {
+        "siteInfo": {
+          "url": "https://chatgpt.com/c/c81bd609-8246-4ba7-8506-ffcd38ff35d1",
+          "accessStartTime": "Wed Jun 26 2024 22:19:39 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "ChatGPT",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401821536531513421",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719465865675000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=tjSxFAGP9Ss",
+          "accessStartTime": "Wed Jun 26 2024 22:21:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "The End of Art: An Argument Against Image AIs - YouTube",
+          "timeActive": 16,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401868167915241537",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719510200360000,
+      "data": {
+        "siteInfo": {
+          "url": "about:home",
+          "accessStartTime": "Thu Jun 27 2024 10:25:52 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "New Tab",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401868168230862916",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719510607576000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=T9XSU0pKX2E",
+          "accessStartTime": "Thu Jun 27 2024 10:43:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "YouTube",
+          "timeActive": 112,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401868168382906436",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719510607805000,
+      "data": {
+        "siteInfo": {
+          "url": "https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf",
+          "accessStartTime": "Thu Jun 27 2024 10:45:44 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "PDF.js viewer",
+          "timeActive": 1,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401868595362005060",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719510608000000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=TrdevFK_am4",
+          "accessStartTime": "Thu Jun 27 2024 10:45:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "YouTube",
+          "timeActive": 101,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401868595608420420",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511042765000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=fbJac4qQy04",
+          "accessStartTime": "Thu Jun 27 2024 10:48:27 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "YouTube",
+          "timeActive": 144,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "watch-later",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": "watch-later"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869051537653837",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511043015000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=6CNI6ZYDNaI",
+          "accessStartTime": "Thu Jun 27 2024 10:50:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "YouTube",
+          "timeActive": 15,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869051778826317",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511043240000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=4Bdc55j80l8",
+          "accessStartTime": "Thu Jun 27 2024 10:51:22 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "YouTube",
+          "timeActive": 18,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869052449914957",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511671770000,
+      "data": {
+        "siteInfo": {
+          "url": "https://chatgpt.com/c/14463315-92e6-43aa-a1e0-a482dab80351",
+          "accessStartTime": "Thu Jun 27 2024 10:58:00 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "ChatGPT",
+          "timeActive": 17,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "use-in-the-video",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": "use-in-the-video"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869710919991361",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511671870000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=how+to+understand+noise+process",
+          "accessStartTime": "Thu Jun 27 2024 10:58:16 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=how+to+understand+noise+process",
+          "timeActive": 18,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 18,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869711060500545",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511672010000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/MachineLearning/comments/19bejd5/d_the_truth_about_noise_schedulers_for_latent/",
+          "accessStartTime": "Thu Jun 27 2024 11:01:18 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "[D] The truth about noise schedulers for latent diffusion models? : r/MachineLearning",
+          "timeActive": 25,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 25,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869711188426817",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511672130000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/StableDiffusion/comments/xboy90/a_better_way_of_doing_img2img_by_finding_the/",
+          "accessStartTime": "Thu Jun 27 2024 11:01:44 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "A better (?) way of doing img2img by finding the noise which reconstructs the original image : r/Sta",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 9,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869711297478724",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511672240000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/comfyui/comments/171atxx/exploring_noise_injection_can_it_boost_image/",
+          "accessStartTime": "Thu Jun 27 2024 11:01:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exploring Noise Injection: Can It Boost Image Quality? : r/comfyui",
+          "timeActive": 12,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 12,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869711412822081",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511672350000,
+      "data": {
+        "siteInfo": {
+          "url": "https://github.com/Jordach/comfy-plasma",
+          "accessStartTime": "Thu Jun 27 2024 11:02:05 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "GitHub - Jordach/comfy-plasma: A simple plasma noise generator for ComfyUI",
+          "timeActive": 18,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 18,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869711599468609",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511672520000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/StableDiffusion/comments/10c5lhr/about_art_ais_how_noise_works/",
+          "accessStartTime": "Thu Jun 27 2024 11:02:23 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "About art AIs, how noise works? : r/StableDiffusion",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869711708520513",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511672630000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=how+to+understand+noise+process+in+image+generation+&client=firefox-b-d&sca_esv=0bf7d5576457dc88&sxsrf=ADLYWIKOFYaXwdT6USiqAW2AZj8c5K_5XA%3A1719511096780&ei=OKh9Zt2uL5uS0PEPzM6I2Ao&ved=0ahUKEwjdqvGArvyGAxUbCTQIHUwnAqsQ4dUDCBA&uact=5&oq=how+to+understand+noise+process+in+image+generation+&gs_lp=Egxnd3Mtd2l6LXNlcnAiNGhvdyB0byB1bmRlcnN0YW5kIG5vaXNlIHByb2Nlc3MgaW4gaW1hZ2UgZ2VuZXJhdGlvbiAyBRAhGKABSNgoUOUBWKsicAF4AZABAJgBtgGgAd0JqgEDOS40uAEDyAEA-AEBmAINoAKQCcICChAAGLADGNYEGEfCAgUQIRifBcICCBAAGIAEGKIEwgIEECEYFcICBxAhGKABGAqYAwCIBgGQBgiSBwQxMC4zoAeMSQ&sclient=gws-wiz-serp",
+          "accessStartTime": "Thu Jun 27 2024 11:02:24 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "how to understand noise process in image generation - Google Search",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 14,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869711822815300",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511672740000,
+      "data": {
+        "siteInfo": {
+          "url": "https://dev.to/eteimz/how-ai-generates-images-from-noise-5116",
+          "accessStartTime": "Thu Jun 27 2024 11:02:37 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How AI generates images from noise - DEV Community",
+          "timeActive": 123,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 123,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869711944450116",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511672860000,
+      "data": {
+        "siteInfo": {
+          "url": "https://medium.com/@bhushan.shashank93/a-guide-to-diffusion-based-image-generation-ee3ded234fbd",
+          "accessStartTime": "Thu Jun 27 2024 11:04:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "A Guide To Diffusion Based Image Generation | by Shashank Bhushan | Medium",
+          "timeActive": 40,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 41,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869712152068161",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511673055000,
+      "data": {
+        "siteInfo": {
+          "url": "https://poloclub.github.io/diffusion-explainer/",
+          "accessStartTime": "Thu Jun 27 2024 11:05:31 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "poloclub.github.io/diffusion-explainer/",
+          "timeActive": 26,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 26,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869712270557249",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511673165000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=how+to+understand+noise+process+in+image+generation+for+dummies&client=firefox-b-d&sca_esv=0bf7d5576457dc88&sxsrf=ADLYWIJ-UzKo53kep86esU3yrAc9z9N9QQ%3A1719511114761&ei=Sqh9ZqOQLumF0PEPsoCb0AI&ved=0ahUKEwij3bqJrvyGAxXpAjQIHTLABioQ4dUDCBA&uact=5&oq=how+to+understand+noise+process+in+image+generation+for+dummies&gs_lp=Egxnd3Mtd2l6LXNlcnAiP2hvdyB0byB1bmRlcnN0YW5kIG5vaXNlIHByb2Nlc3MgaW4gaW1hZ2UgZ2VuZXJhdGlvbiBmb3IgZHVtbWllczIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFIrjNQ_xtYiTBwAngBkAEAmAGGAaAB0AGqAQMxLjG4AQPIAQD4AQGYAgSgAukBwgIKEAAYsAMY1gQYR8ICBRAhGJ8FmAMAiAYBkAYIkgcDMy4xoAfuDA&sclient=gws-wiz-serp",
+          "accessStartTime": "Thu Jun 27 2024 11:05:56 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "how to understand noise process in image generation for dummies - Google Search",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869712382754884",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511673275000,
+      "data": {
+        "siteInfo": {
+          "url": "https://medium.com/@anishaswain/noise-in-digital-image-processing-55357c9fab71",
+          "accessStartTime": "Thu Jun 27 2024 11:05:58 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Noise in Digital Image Processing | by Anisha Swain | Medium",
+          "timeActive": 31,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 31,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869712505438276",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511673390000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=do+dalle+use+difussion+model%3F",
+          "accessStartTime": "Thu Jun 27 2024 11:06:30 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=do+dalle+use+difussion+model%3F",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "401869712699424836",
+          "collection": {
+            "@ref": {
+              "id": "ugoldengorilla01",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1719511673575000,
+      "data": {
+        "siteInfo": {
+          "url": "https://zapier.com/blog/stable-diffusion-vs-dalle/",
+          "accessStartTime": "Thu Jun 27 2024 11:06:35 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Stable Diffusion vs. DALL·E 3: Which is better? [2024] | Zapier",
+          "timeActive": 74,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 74,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    }
+  ]
+}
