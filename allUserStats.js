@@ -1,11 +1,16 @@
 // Function to fetch JSON files
 async function fetchJSONFiles(fileNames) {
-    const jsonPromises = fileNames.map(fileName => fetch(fileName).then(res => res.json()));
+    const jsonPromises = fileNames.map(fileName => 
+        fetch(`userData/${fileName}`).then(res => res.json())
+    );
     return Promise.all(jsonPromises);
 }
 
 // Specify the JSON file names
-const fileNames = ['allDocuments01.json', 'allDocuments02.json', 'allDocuments03.json'];
+const fileNames = ['allDocuments01.json', 'allDocuments03.json', 'allDocuments04.json', 
+                    'allDocuments05.json', 'allDocuments06.json','allDocuments07.json', 
+                    'allDocuments08.json', 'allDocuments10.json', 'allDocuments11.json', 
+                    'allDocuments12.json', 'allDocuments13.json'];
 
 // Initialize summary object
 const summary = {

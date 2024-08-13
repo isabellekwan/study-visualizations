@@ -1,0 +1,6708 @@
+{
+  "data": [
+    {
+      "ref": {
+        "@ref": {
+          "id": "404705647979921473",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884311350000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-calendar-overview.netlify.app/",
+          "accessStartTime": "Mon Aug 05 2024 11:25:11 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Vite App",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "my_work",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404705969400971329",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884412750000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=LeetCode",
+          "accessStartTime": "Sun Jul 28 2024 18:28:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=LeetCode",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404705969541480516",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884309370000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/",
+          "accessStartTime": "Mon Aug 05 2024 11:06:30 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "LeetCode - The World's Leading Online Programming Learning Platform",
+          "timeActive": 1,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706029939458116",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884413500000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=leet+code+study+",
+          "accessStartTime": "Sun Jul 28 2024 18:29:29 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=leet+code+study+",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706030119813185",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573718600000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/leetcode/comments/zk2hgo/your_idea_of_best_34_month_lc_study_plan/?rdt=61608",
+          "accessStartTime": "Sun Jul 28 2024 18:29:41 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "reddit.com/r/leetcode/comments/zk2hgo/your_idea_of_best_34_month_lc_study_plan/?rdt=61608",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706030267662404",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575215790000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/",
+          "accessStartTime": "Thu Aug 01 2024 21:39:29 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "reddit.com/",
+          "timeActive": 13,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "test",
+          "totalTime": 1,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": "test"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706044879568964",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722881932850000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=chatgpt",
+          "accessStartTime": "Sun Jul 28 2024 18:30:03 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=chatgpt",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706045069361220",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573720647000,
+      "data": {
+        "siteInfo": {
+          "url": "https://openai.com/index/chatgpt/",
+          "accessStartTime": "Sun Jul 28 2024 18:30:12 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "openai.com/index/chatgpt/",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706045223501892",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722880112200000,
+      "data": {
+        "siteInfo": {
+          "url": "https://chatgpt.com/",
+          "accessStartTime": "Mon Aug 05 2024 10:48:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "chatgpt.com/",
+          "timeActive": 2,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706058051780676",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884402420000,
+      "data": {
+        "siteInfo": {
+          "url": "https://sortify-overview.netlify.app/",
+          "accessStartTime": "Mon Aug 05 2024 11:34:17 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Resource-based overview",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706102937124932",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884414060000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=react+",
+          "accessStartTime": "Sun Jul 28 2024 18:30:57 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=react+",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706103084974148",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722216790560000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/react/",
+          "accessStartTime": "Sun Jul 28 2024 18:31:00 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "React Tutorial",
+          "timeActive": 2,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "tutorial",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": "tutorial"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706221061308481",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573681095000,
+      "data": {
+        "siteInfo": {
+          "url": "https://legacy.reactjs.org/tutorial/tutorial.html",
+          "accessStartTime": "Sun Jul 28 2024 18:50:12 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "legacy.reactjs.org/tutorial/tutorial.html",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "learning-react",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": true,
+          "qtag": "learning-react"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706221197623364",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722547330600000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=react+tutorials",
+          "accessStartTime": "Sun Jul 28 2024 18:50:13 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "react tutorials - Google Search",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 5,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706221357006916",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722547331320000,
+      "data": {
+        "siteInfo": {
+          "url": "https://react.dev/learn/tutorial-tic-tac-toe",
+          "accessStartTime": "Sun Jul 28 2024 18:51:26 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Tutorial: Tic-Tac-Toe – React",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706532641472580",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884403000000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-topics-overview.netlify.app/",
+          "accessStartTime": "Mon Aug 05 2024 11:34:00 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Milestones Topics Overview",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706865498292292",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573710780000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=wiki+bengal+tiger",
+          "accessStartTime": "Sun Jul 28 2024 18:43:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "wiki bengal tiger - Google Search",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404706865792942145",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722218673350000,
+      "data": {
+        "siteInfo": {
+          "url": "https://en.wikipedia.org/wiki/Bengal_tiger",
+          "accessStartTime": "Sun Jul 28 2024 19:03:20 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "en.wikipedia.org/wiki/Bengal_tiger",
+          "timeActive": 12,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "bengal-tiger",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": true,
+          "qtag": "bengal-tiger"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404707790341275713",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884414850000,
+      "data": {
+        "siteInfo": {
+          "url": "about:debugging#/runtime/this-firefox",
+          "accessStartTime": "Thu Aug 01 2024 22:04:45 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Debugging - Runtime / this-firefox",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "learning-react",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": "learning-react"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404907890685509709",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573711810700,
+      "data": {
+        "siteInfo": {
+          "url": "https://course.aisafetyfundamentals.com/alignment?session=2",
+          "accessStartTime": "Thu Aug 01 2024 11:09:56 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "AI Safety Fundamentals Course",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": true,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404907891114377293",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573708660000,
+      "data": {
+        "siteInfo": {
+          "url": "https://course.aisafetyfundamentals.com/alignment?session=1",
+          "accessStartTime": "Tue Jul 30 2024 23:59:21 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "AI Alignment - AI and the Years Ahead",
+          "timeActive": 5,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404907891336675405",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573701930000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=IHZwWFHWa-w",
+          "accessStartTime": "Thu Aug 01 2024 11:16:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Gradient descent, how neural networks learn | Chapter 2, Deep learning - YouTube",
+          "timeActive": 1445,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404907891654393929",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573702890000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=aircAruvnKk",
+          "accessStartTime": "Thu Aug 01 2024 11:10:46 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "But what is a neural network? | Chapter 1, Deep learning - YouTube",
+          "timeActive": 359,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404907934102847565",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573715347000,
+      "data": {
+        "siteInfo": {
+          "url": "about:reader?url=https%3A%2F%2Fmedium.com%2F%40richardcngo%2Fvisualizing-the-deep-learning-revolution-722098eb9c5",
+          "accessStartTime": "Wed Jul 31 2024 00:02:46 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Visualizing the deep learning revolution | by Richard Ngo | Medium",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404907935051808841",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573707090000,
+      "data": {
+        "siteInfo": {
+          "url": "https://course.aisafetyfundamentals.com/alignment?session=2&scrollTo=resources",
+          "accessStartTime": "Tue Jul 30 2024 23:58:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "AI Safety Fundamentals Course",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404907935277252685",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573675505000,
+      "data": {
+        "siteInfo": {
+          "url": "https://aisafetyfundamentals.com/blog/ai-risks/?_gl=1*yii4tb*_ga*MjEwMzIxNzE0NC4xNzIxODgzNzM2*_ga_8W59C8ZY6T*MTcyMjQwODMxMS41LjEuMTcyMjQwOTA2Mi4wLjAuMA..",
+          "accessStartTime": "Thu Aug 01 2024 11:09:34 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "What risks does AI pose? – BlueDot Impact",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "read-more-about-",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": true,
+          "qtag": "read-more-about-"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404907947342168141",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573674450000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe/",
+          "accessStartTime": "Thu Aug 01 2024 11:09:45 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How we could stumble into AI catastrophe",
+          "timeActive": 1,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "read-more-about-",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": true,
+          "qtag": "read-more-about-"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404908028517679181",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573713615000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=pYXy-A4siMw&t=16s",
+          "accessStartTime": "Thu Aug 01 2024 11:10:42 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Intro to AI Safety, Remastered - YouTube",
+          "timeActive": 2,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404908029490757705",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573704370000,
+      "data": {
+        "siteInfo": {
+          "url": "https://course.aisafetyfundamentals.com/alignment?session=3",
+          "accessStartTime": "Thu Aug 01 2024 11:09:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "AI Safety Fundamentals Course",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404908029972054089",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573669020000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+          "accessStartTime": "Thu Aug 01 2024 11:55:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "youtube.com/watch?v=zjkBMFhNj_g",
+          "timeActive": 2,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "understand-this-concept-",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": true,
+          "qtag": "understand-this-concept-"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404910678779887693",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573709650000,
+      "data": {
+        "siteInfo": {
+          "url": "https://news.ycombinator.com/item?id=36460082",
+          "accessStartTime": "Wed Jul 31 2024 00:02:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "$900k Median Package for Engineers at OpenAI | Hacker News",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404910679182540873",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573714990000,
+      "data": {
+        "siteInfo": {
+          "url": "https://epochai.org/blog/compute-trends",
+          "accessStartTime": "Wed Jul 31 2024 00:02:52 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Compute Trends Across Three Eras of Machine Learning – Epoch AI",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404910679395401805",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884387040000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.levels.fyi/companies/openai/salaries/software-engineer?country=254",
+          "accessStartTime": "Wed Jul 31 2024 00:02:52 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "OpenAI Software Engineer Salary | $428K-$875K+ | Levels.fyi",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405040786459066441",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722542569425000,
+      "data": {
+        "siteInfo": {
+          "url": "https://aisafetyfundamentals.com/blog/ai-risks/?_gl=1*167qgti*_ga*MjEwMzIxNzE0NC4xNzIxODgzNzM2*_ga_8W59C8ZY6T*MTcyMjUzNTcyMy42LjEuMTcyMjUzNTczOS4wLjAuMA..",
+          "accessStartTime": "Thu Aug 01 2024 12:47:34 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "What risks does AI pose? – BlueDot Impact",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405040786671927373",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573723170000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=pYXy-A4siMw&t=16",
+          "accessStartTime": "Thu Aug 01 2024 11:09:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Intro to AI Safety, Remastered - YouTube",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405040833269596237",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575189726000,
+      "data": {
+        "siteInfo": {
+          "url": "https://course.aisafetyfundamentals.com/alignment?session=4",
+          "accessStartTime": "Thu Aug 01 2024 13:01:46 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "AI Safety Fundamentals Course",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405040833480360013",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722573703490000,
+      "data": {
+        "siteInfo": {
+          "url": "https://aisafetyfundamentals.com/blog/scalable-oversight-intro/?_gl=1*mtojbp*_ga*MjEwMzIxNzE0NC4xNzIxODgzNzM2*_ga_8W59C8ZY6T*MTcyMjUzNTcyMy42LjEuMTcyMjUzNTgxMi4wLjAuMA..",
+          "accessStartTime": "Thu Aug 01 2024 11:10:23 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Can we scale human feedback for complex AI tasks? An intro to scalable oversight. – BlueDot Impact",
+          "timeActive": 17,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405047838095966285",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884387800000,
+      "data": {
+        "siteInfo": {
+          "url": "https://sortify-overview.netlify.app/#",
+          "accessStartTime": "Thu Aug 01 2024 13:01:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Resource-based overview",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405052830019223625",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884403615000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-topics-overview.netlify.app/#",
+          "accessStartTime": "Sun Jul 28 2024 18:51:25 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Milestones Topics Overview",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405080330136977476",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722881222175000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.tripadvisor.ca/Restaurant_Review-g679248-d7828151-Reviews-Somthin_Fishee-Elora_Centre_Wellington_Ontario.html",
+          "accessStartTime": "Thu Aug 01 2024 21:39:04 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "SOMTHIN' FISHEE, Elora - Restaurant Reviews, Photos & Phone Number - Tripadvisor",
+          "timeActive": 16,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "test",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": "test"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082069687861313",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884382110000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=leetcode+100",
+          "accessStartTime": "Thu Aug 01 2024 21:42:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=leetcode+100",
+          "timeActive": 7,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 7,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082069948956740",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884397375000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=gogoel",
+          "accessStartTime": "Thu Aug 01 2024 21:46:30 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=gogoel",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082070106243137",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884398290000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.ca/",
+          "accessStartTime": "Thu Aug 01 2024 21:46:32 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.ca/",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082070265626689",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884377540000,
+      "data": {
+        "siteInfo": {
+          "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.ca%2F&ec=GAZAmgQ&hl=en&ifkv=AdF4I76wDxKR_uGqoywFs7wU-7hvDqKgdZGVEmSRSZc3A0Cm6mIPZQlCssV1bTsgCoRImrHCbhBljg&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1978777435%3A1722573993874512&ddm=0",
+          "accessStartTime": "Thu Aug 01 2024 21:46:33 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.ca%2F&ec=GAZAmgQ&hl=en&if",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082070604316740",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884378455000,
+      "data": {
+        "siteInfo": {
+          "url": "https://accounts.google.com/v3/signin/challenge/pk?TL=ALoj5Apy-kx1XKnJ845V9VMmQrlukU_En_xE6YSMC5PFXP0cCXa2SMzsnk-c2KY-&checkConnection=youtube%3A268&checkedDomains=youtube&cid=1&continue=https%3A%2F%2Fwww.google.ca%2F&ddm=0&dsh=S-1978777435%3A1722573993874512&ec=GAZAmgQ&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=AdF4I76wDxKR_uGqoywFs7wU-7hvDqKgdZGVEmSRSZc3A0Cm6mIPZQlCssV1bTsgCoRImrHCbhBljg&pstMsg=1",
+          "accessStartTime": "Thu Aug 01 2024 21:46:42 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Sign in - Google Accounts",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082070750068801",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884415690000,
+      "data": {
+        "siteInfo": {
+          "url": "https://gds.google.com/web/landing?landing=true&ep=p&gdsid=341728728&authuser=0&hl=en&continue=https://accounts.google.com/ServiceLogin?continue%3Dhttps%253A%252F%252Fwww.google.ca%252F%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%253A268%26pstMsg%3D1&rapt=AEjHL4Oqo_czxSAAi4nI-bNIhG00sUPvCXO1Xi13ENn2krYB3T_FDm05WyLqULYiHjlkrGIqDnT5MTLku7ROWP-qwRwP_uA6ZQ&pli=1",
+          "accessStartTime": "Thu Aug 01 2024 21:46:50 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "gds.google.com/web/landing?landing=true&ep=p&gdsid=341728728&authuser=0&hl=en&continue=https://accou",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082070912598084",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884390040000,
+      "data": {
+        "siteInfo": {
+          "url": "https://gds.google.com/web/chip?cardIndex=0&hl=en&authuser=0&gdsid=341728728&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%253A%252F%252Fwww.google.ca%252F%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%253A268%26pstMsg%3D1&rapt=AEjHL4Oqo_czxSAAi4nI-bNIhG00sUPvCXO1Xi13ENn2krYB3T_FDm05WyLqULYiHjlkrGIqDnT5MTLku7ROWP-qwRwP_uA6ZQ&ep=p&landing=true",
+          "accessStartTime": "Thu Aug 01 2024 21:46:50 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Google Account",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082071151673412",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884379010000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.ca/?pli=1",
+          "accessStartTime": "Thu Aug 01 2024 21:46:54 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Google",
+          "timeActive": 7,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082071311056961",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884388330000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=docs.",
+          "accessStartTime": "Thu Aug 01 2024 21:47:00 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=docs.",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082071468343364",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884404217000,
+      "data": {
+        "siteInfo": {
+          "url": "https://docs.google.com/document/u/0/?pli=1&usp=direct_url",
+          "accessStartTime": "Thu Aug 01 2024 21:47:05 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Google Docs",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082071760896065",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884393163000,
+      "data": {
+        "siteInfo": {
+          "url": "https://docs.google.com/document/u/0/?pli=1",
+          "accessStartTime": "Thu Aug 01 2024 21:47:06 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Google Docs",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082071940202564",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722578714546000,
+      "data": {
+        "siteInfo": {
+          "url": "https://docs.google.com/document/u/0/create?usp=docs_home&ths=true",
+          "accessStartTime": "Thu Aug 01 2024 21:47:09 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Untitled document - Google Docs",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082072110071873",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575874380000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM&themeRefresh=1",
+          "accessStartTime": "Thu Aug 01 2024 21:48:03 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "youtube.com/watch?v=RBSGKlAvoiM&themeRefresh=1",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082072306155585",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575861175000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/leetcode/comments/nnq2k4/how_to_start_with_leetcode_without_knowing_much/",
+          "accessStartTime": "Thu Aug 01 2024 21:49:47 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How to start with leetcode without knowing much about ds and algos : r/leetcode",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082072459247684",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575843500000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.linkedin.com/pulse/leetcode-guide-students-junaid-khan",
+          "accessStartTime": "Thu Aug 01 2024 21:51:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "The LeetCode Guide for Students",
+          "timeActive": 92,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 92,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082072618631233",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575844380000,
+      "data": {
+        "siteInfo": {
+          "url": "https://medium.com/@parvezshah.shaik/how-to-start-leetcode-in-2024-as-a-beginner-b7d3f005f92a",
+          "accessStartTime": "Thu Aug 01 2024 21:53:14 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How to Start Leetcode in 2024 as a beginner | by Parvez Shah Shaik | Medium",
+          "timeActive": 79,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 79,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082072848269377",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884372596000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=leetcode+where+to+start&client=firefox-b-d&sca_esv=6649c81aa00f7f94&ei=zWOsZtz2B5es0PEPz5a6mA4&ved=0ahUKEwickeOuv9WHAxUXFjQIHU-LDuMQ4dUDCBA&uact=5&oq=leetcode+where+to+start&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2xlZXRjb2RlIHdoZXJlIHRvIHN0YXJ0MgUQABiABDIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBUilHVCeBljvHHADeAGQAQCYAZYBoAGwCqoBBDE0LjO4AQPIAQD4AQGYAhSgAvQKwgIKEAAYsAMY1gQYR8ICExAuGIAEGLADGNEDGEMYxwEYigXCAg0QABiABBiwAxhDGIoFwgIKEAAYgAQYQxiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYkQIYigXCAggQABiABBiiBJgDAIgGAZAGCpIHBDE3LjOgB_xd&sclient=gws-wiz-serp",
+          "accessStartTime": "Thu Aug 01 2024 21:54:35 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode where to start - Google Search",
+          "timeActive": 10,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 10,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082072997167169",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722578695170000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&sca_esv=6649c81aa00f7f94&q=How+to+use+LeetCode+effectively&sa=X&ved=2ahUKEwics-6xv9WHAxU_FzQIHRbcAwYQ1QJ6BAgyEAE&biw=1512&bih=860&dpr=2",
+          "accessStartTime": "Thu Aug 01 2024 21:54:44 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&sca_esv=6649c81aa00f7f94&q=How+to+use+LeetCode+effectively&sa=X",
+          "timeActive": 172,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 172,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082073136627780",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575868628000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=leetcode+startinout+reddit&client=firefox-b-d&sca_esv=6649c81aa00f7f94&biw=1512&bih=860&sxsrf=ADLYWILH5uG7k5BYKRKh9K2xVdM-2an-XQ%3A1722574484916&ei=lGasZqHUN8OD0PEPkeCTiAo&ved=0ahUKEwih7paCwtWHAxXDATQIHRHwBKEQ4dUDCBA&uact=5&oq=leetcode+startinout+reddit&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmxlZXRjb2RlIHN0YXJ0aW5vdXQgcmVkZGl0MgUQIRigAUigNlCyC1iONnAEeAGQAQKYAYICoAGSFaoBBjE1LjkuMrgBA8gBAPgBAZgCHKAChBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICDhAAGLADGOQCGNYE2AEBwgIZEC4YgAQYsAMY0QMYQxjHARjIAxiKBdgBAsICFhAuGIAEGLADGEMY1AIYyAMYigXYAQLCAgoQIxiABBgnGIoFwgIEECMYJ8ICEBAuGIAEGNEDGEMYxwEYigXCAhAQABiABBixAxhDGIMBGIoFwgIKEAAYgAQYQxiKBcICFhAuGIAEGLEDGNEDGEMYgwEYxwEYigXCAgsQABiABBiRAhiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMYgwEYigXCAhAQLhiABBixAxhDGIMBGIoFwgIOEC4YgAQYsQMY0QMYxwHCAggQABiABBixA8ICBRAAGIAEwgIREAAYgAQYkQIYsQMYgwEYigXCAgsQABiABBiGAxiKBcICBhAAGBYYHsICBRAhGJ8FmAMAiAYBkAYPugYGCAEQARgJugYGCAIQARgIkgcGMTkuOC4xoAfWuQE&sclient=gws-wiz-serp",
+          "accessStartTime": "Thu Aug 01 2024 21:57:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?q=leetcode+startinout+reddit&client=firefox-b-d&sca_esv=6649c81aa00f7f94&biw=1512&",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082073362071620",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575856140000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions",
+          "accessStartTime": "Thu Aug 01 2024 21:58:49 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Loading...",
+          "timeActive": 10,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 10,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082073501532225",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884398850000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=leetcode+bliund+75",
+          "accessStartTime": "Thu Aug 01 2024 21:58:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode bliund 75 - Google Search",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082073655672897",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575863880000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/discuss/interview-question/4610367/Lists-of-LeetCode-Blind-75/",
+          "accessStartTime": "Thu Aug 01 2024 21:59:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Loading...",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 6,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082073902088257",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575849405000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/accounts/login/?next=%2Fstudyplan%2Fleetcode-75%2F",
+          "accessStartTime": "Thu Aug 01 2024 21:59:22 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/accounts/login/?next=%2Fstudyplan%2Fleetcode-75%2F",
+          "timeActive": 15,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 15,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082074066714689",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575853410000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/u/djsiu/",
+          "accessStartTime": "Thu Aug 01 2024 21:59:45 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/u/djsiu/",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 11,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082074227146817",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884310470000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75",
+          "accessStartTime": "Mon Aug 05 2024 11:21:18 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Merge Strings Alternately - LeetCode",
+          "timeActive": 22,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082074464124993",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884309520000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/studyplan/leetcode-75/",
+          "accessStartTime": "Mon Aug 05 2024 11:06:32 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "LeetCode 75 - Study Plan - LeetCode",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "leetcode-qs",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": "leetcode-qs"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082074623508548",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575852710000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=t2CEgPsws3U",
+          "accessStartTime": "Thu Aug 01 2024 22:00:50 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Data Structures and Algorithms in JavaScript - Full Course for Beginners - YouTube",
+          "timeActive": 12,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 12,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082074777649217",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575870090000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=java+course",
+          "accessStartTime": "Thu Aug 01 2024 22:01:02 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=java+course",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082075015675969",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575883220000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=java+course&dlnr=1&sei=DmisZsbNHKHN0PEPqc6SkAI",
+          "accessStartTime": "Thu Aug 01 2024 22:01:06 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=java+course&dlnr=1&sei=DmisZsbNHKHN0PEPqc6SkAI",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082075170865220",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575884145000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=java+course&dlnr=1&sei=DmisZsbNHKHN0PEPqc6SkAI#dlnr=1",
+          "accessStartTime": "Thu Aug 01 2024 22:01:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "java course - Google Search",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082075329200193",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575864640000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/",
+          "accessStartTime": "Thu Aug 01 2024 22:01:19 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "youtube.com/",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 6,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082075557789761",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575854320000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/results?search_query=abdul+bari",
+          "accessStartTime": "Thu Aug 01 2024 22:01:25 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "YouTube",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 11,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082075734999105",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722880110480000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr",
+          "accessStartTime": "Mon Aug 05 2024 10:43:47 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "abdul bari - YouTube",
+          "timeActive": 7,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "ds-algos",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": "ds-algos"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082075891236932",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575888973000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/csMajors/comments/ohvcip/how_to_start_leetcode/",
+          "accessStartTime": "Thu Aug 01 2024 22:02:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How to start Leetcode? : r/csMajors",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082076149186628",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575862200000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.udemy.com/topic/java/",
+          "accessStartTime": "Thu Aug 01 2024 22:02:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Top Java Courses Online - Updated [August 2024]",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082076345270340",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575875850000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/",
+          "accessStartTime": "Thu Aug 01 2024 22:03:30 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Data Structures and Algorithms: Deep Dive Using Java | Udemy",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082076505702468",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575876696000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.udemy.com/courses/search/?src=ukw&q=deep+dive+using+java",
+          "accessStartTime": "Thu Aug 01 2024 22:04:14 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Search results | Udemy",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082076699689028",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575877406000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM",
+          "accessStartTime": "Thu Aug 01 2024 22:04:17 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer - YouTube",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082076852781121",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575847516000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/?couponCode=ST4MT73124",
+          "accessStartTime": "Thu Aug 01 2024 22:15:50 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Data Structures and Algorithms: Deep Dive Using Java | Udemy",
+          "timeActive": 19,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "ds-algo",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": "ds-algo"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082076998533185",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884311900000,
+      "data": {
+        "siteInfo": {
+          "url": "https://docs.google.com/document/d/1kmstx9jyADMKjSjB0LNZ_NC9YeLP7Vzrs-r7fmowhHU/edit",
+          "accessStartTime": "Mon Aug 05 2024 11:36:17 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "LeetCode Study - Google Docs",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082077532258369",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884310320000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75",
+          "accessStartTime": "Mon Aug 05 2024 11:20:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Merge Strings Alternately - LeetCode",
+          "timeActive": 25,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082599952744516",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575872740000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=how+to+solve+leetcode+problems+for+beginners",
+          "accessStartTime": "Thu Aug 01 2024 22:08:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=how+to+solve+leetcode+problems+for+beginners",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082600096399428",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575842992000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/discuss/career/450215/How-to-use-LeetCode-to-help-yourself-efficiently-and-effectively-(for-beginners)",
+          "accessStartTime": "Thu Aug 01 2024 22:08:10 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Loading...",
+          "timeActive": 167,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082600271511620",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575871560000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode",
+          "accessStartTime": "Thu Aug 01 2024 22:10:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcod",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082600503246916",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722823954375000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode#1",
+          "accessStartTime": "Sun Aug 04 2024 18:57:12 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Cracking The Coding Interview 6th Edition In LeetCode - LeetCode Discuss",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "leetcode-qs",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": "leetcode-qs"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082601078915140",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722578685970000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/contains-duplicate/description/",
+          "accessStartTime": "Thu Aug 01 2024 22:35:30 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Contains Duplicate - LeetCode",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082601240395841",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722578685720000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/contains-duplicate/",
+          "accessStartTime": "Thu Aug 01 2024 22:35:04 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Contains Duplicate - LeetCode",
+          "timeActive": 26,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082601398730820",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575851510000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=mapping+in+java",
+          "accessStartTime": "Thu Aug 01 2024 22:14:04 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=mapping+in+java",
+          "timeActive": 14,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082601638854724",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722823013525000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.geeksforgeeks.org/map-interface-java-examples/",
+          "accessStartTime": "Sun Aug 04 2024 18:52:10 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "geeksforgeeks.org/map-interface-java-examples/",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "java-resource",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": "java-resource"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405082827723374660",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722575970736000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/url?q=https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode%231&sa=D&source=docs&ust=1722579534102446&usg=AOvVaw0nmCLggpeFLOLSZAgKVIrD",
+          "accessStartTime": "Thu Aug 01 2024 22:18:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Redirecting",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405085706349707337",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722578716270000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.geeksforgeeks.org/hashmap-getordefaultkey-defaultvalue-method-in-java-with-examples/",
+          "accessStartTime": "Thu Aug 01 2024 22:29:50 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "HashMap getOrDefault(key, defaultValue) method in Java with Examples - GeeksforGeeks",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405085706587734089",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722578708915000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=how+to+get+array+length+in+java",
+          "accessStartTime": "Thu Aug 01 2024 22:31:58 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=how+to+get+array+length+in+java",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405085707519918153",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722823013335000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-do-I-find-the-Java-array-length",
+          "accessStartTime": "Sun Aug 04 2024 18:52:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How do I find the Java array length?",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 8,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405085708750946381",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722578717100000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/contains-duplicate/editorial/",
+          "accessStartTime": "Thu Aug 01 2024 22:35:43 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Contains Duplicate - LeetCode",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405085708939690061",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722578707545000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/contains-duplicate/solutions/",
+          "accessStartTime": "Thu Aug 01 2024 22:35:45 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Contains Duplicate - LeetCode",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405085709133676617",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722578722090000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/the-skyline-problem/",
+          "accessStartTime": "Thu Aug 01 2024 22:38:31 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Contains Duplicate - LeetCode",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405085709347586125",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722578697405000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/the-skyline-problem/description/",
+          "accessStartTime": "Thu Aug 01 2024 22:38:31 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Contains Duplicate - LeetCode",
+          "timeActive": 18,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 18,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405085709610778697",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722578717735000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/contains-duplicate/solutions/3672475/4-method-s-c-java-python-beginner-friendly/",
+          "accessStartTime": "Thu Aug 01 2024 22:38:49 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "The Skyline Problem - LeetCode",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405085709991411785",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722823954900000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/valid-anagram/",
+          "accessStartTime": "Sun Aug 04 2024 18:58:57 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Valid Anagram - LeetCode",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405085710233632841",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722823014310000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/valid-anagram/description/",
+          "accessStartTime": "Sun Aug 04 2024 18:53:35 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Valid Anagram - LeetCode",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 31,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405341904679469129",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722878928382000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/url?q=https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode%231&sa=D&source=docs&ust=1722825453908964&usg=AOvVaw0nvMsvrQUPz1QzcyRBnSaj",
+          "accessStartTime": "Sun Aug 04 2024 18:52:16 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Redirecting",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405341905324343369",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722878918905000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/palindrome-permutation/",
+          "accessStartTime": "Sun Aug 04 2024 18:54:00 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/problems/palindrome-permutation/",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405341905772085325",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722878913450000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/palindrome-permutation/description/",
+          "accessStartTime": "Sun Aug 04 2024 18:58:58 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Palindrome Permutation - LeetCode",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405341906599411785",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722879629696000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.hellofresh.ca/plans?c=GEISTM-JP9Q&mealsize=5-4&utm_source=native~pocket&utm_medium=geistm&utm_campaign=GeistM_CA_0_Pocket_Purchase_Prospecting_BAU_0_DTS_Topdust_Native_Stock_NonVanity_FullOffer_RON_Apr2024_0_GEISTM-JP9Q_0&utm_content=act_native_nativenonfacebook&discount_comm_id=0269cea4-be05-43a1-b4f9-bf92935d5a33&locale=en-CA&dm_custom=bfast",
+          "accessStartTime": "Sun Aug 04 2024 18:56:50 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Meal Kit Delivery Plans & Food Boxes | HelloFresh",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "my_work",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405342890380755012",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722878920785000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/one-edit-distance/",
+          "accessStartTime": "Sun Aug 04 2024 18:57:09 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/problems/one-edit-distance/",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405342890614587457",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722878914103000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/one-edit-distance/description/",
+          "accessStartTime": "Sun Aug 04 2024 18:57:09 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "One Edit Distance - LeetCode",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405342891017240644",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722878921370000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/string-compression/",
+          "accessStartTime": "Sun Aug 04 2024 18:57:21 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "leetcode.com/problems/string-compression/",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405342891721883716",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722878931065000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/string-compression/description/",
+          "accessStartTime": "Sun Aug 04 2024 18:58:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "String Compression - LeetCode",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405342892107759681",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722878899380000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=-JTq1BFBwmo&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=2",
+          "accessStartTime": "Sun Aug 04 2024 19:03:15 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "1. Introduction to Algorithms - YouTube",
+          "timeActive": 129,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 129,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405342892496781377",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722878904900000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=FbYzBWdhMb0&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=3",
+          "accessStartTime": "Sun Aug 04 2024 19:09:18 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "1.2 Characteristics of Algorithm - YouTube",
+          "timeActive": 58,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 58,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405342892651970628",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722879563515000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=xGYsEqe9Vl0&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=4",
+          "accessStartTime": "Mon Aug 05 2024 10:37:26 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "1.2 Characteristics of Algorithm - YouTube",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 134,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405401201029414985",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722879689050000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=time+complexity",
+          "accessStartTime": "Mon Aug 05 2024 10:36:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=time+complexity",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405401201464574025",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722880110660000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=1U3Uwct45IY&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=5",
+          "accessStartTime": "Mon Aug 05 2024 10:45:15 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "1.3 How Write and Analyze Algorithm - YouTube",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405401201820041289",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722879615406000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/",
+          "accessStartTime": "Mon Aug 05 2024 10:38:31 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Understanding Time Complexity with Simple Examples - GeeksforGeeks",
+          "timeActive": 17,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 17,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405401775225438273",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722880610785000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=9TlHvipP5yA&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=6",
+          "accessStartTime": "Mon Aug 05 2024 10:45:19 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "(1) 1.4 Frequency Count Method - YouTube",
+          "timeActive": 12,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405401775381676100",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722880606090000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=w7t4_JUUTeg&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=9",
+          "accessStartTime": "Mon Aug 05 2024 10:45:30 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "(1) 1.5.1 Time Complexity #1 - YouTube",
+          "timeActive": 45,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405401775527428161",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884383830000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=tes",
+          "accessStartTime": "Mon Aug 05 2024 10:46:29 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=tes",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405401775771746369",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884307390000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=5v-tKX2uRAk&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=10",
+          "accessStartTime": "Mon Aug 05 2024 10:57:04 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "(1) 1.7 Compare Class of Functions - YouTube",
+          "timeActive": 48,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405401776442835012",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884405646000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.tes.com/",
+          "accessStartTime": "Mon Aug 05 2024 10:47:56 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Tes - Education Jobs, Teaching Resources, School Software & Magazine",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405401776985997377",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722880619116000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=React+Tutorial",
+          "accessStartTime": "Mon Aug 05 2024 10:48:17 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=React+Tutorial",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405401777147478081",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884309670000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/REACT/DEFAULT.ASP",
+          "accessStartTime": "Mon Aug 05 2024 11:06:40 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "React Tutorial",
+          "timeActive": 1,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "react-resource",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": "react-resource"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406175274729540",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884416260000,
+      "data": {
+        "siteInfo": {
+          "url": "https://docs.google.com/document/d/1kmstx9jyADMKjSjB0LNZ_NC9YeLP7Vzrs-r7fmowhHU/edit?ouid=113607134637393364457&usp=docs_home&ths=true",
+          "accessStartTime": "Mon Aug 05 2024 10:57:00 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "LeetCode Study - Google Docs",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406175758123076",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884379680000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=A03oI0znAoc&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=11",
+          "accessStartTime": "Mon Aug 05 2024 10:57:52 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "(1) 1.7 Compare Class of Functions - YouTube",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406175904923716",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884406190000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=mwN18xfwNhk&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=14",
+          "accessStartTime": "Mon Aug 05 2024 10:58:00 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "(1) 1.8.1 Asymptotic Notations Big Oh - Omega - Theta #1 - YouTube",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406176063258689",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884368720000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=NI4OKSvGAgM&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=13",
+          "accessStartTime": "Mon Aug 05 2024 10:58:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "(1) 1.10.1 Comparison of Functions #1 - YouTube",
+          "timeActive": 75,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 75,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406176277168196",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884367945000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.youtube.com/watch?v=lj3E24nnPjI&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&index=16",
+          "accessStartTime": "Mon Aug 05 2024 10:59:17 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "(1) 1.9 Properties of Asymptotic Notations - YouTube",
+          "timeActive": 96,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 96,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406176413483073",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884417160000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/url?q=https://leetcode.com/studyplan/leetcode-75/&sa=D&source=docs&ust=1722884467920806&usg=AOvVaw1IhS9DXyyelmioqRlsNAMN",
+          "accessStartTime": "Mon Aug 05 2024 11:01:08 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Redirecting",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406176556089412",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884406745000,
+      "data": {
+        "siteInfo": {
+          "url": "https://docs.google.com/document/u/0/?usp=direct_url",
+          "accessStartTime": "Mon Aug 05 2024 11:01:49 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Google Docs",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406176730153025",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884390595000,
+      "data": {
+        "siteInfo": {
+          "url": "https://docs.google.com/document/u/0/",
+          "accessStartTime": "Mon Aug 05 2024 11:01:50 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Google Docs",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406176870662212",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884417720000,
+      "data": {
+        "siteInfo": {
+          "url": "https://docs.google.com/document/d/1Q63GVLBxkggSeeYGlfUhmMdr89y-_Hw-9Yo2TxJQ0Fk/edit?ouid=113607134637393364457&usp=docs_home&ths=true",
+          "accessStartTime": "Mon Aug 05 2024 11:01:54 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Transoft interview prep - Google Docs",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406177003831361",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884399800000,
+      "data": {
+        "siteInfo": {
+          "url": "https://docs.google.com/document/d/1Q63GVLBxkggSeeYGlfUhmMdr89y-_Hw-9Yo2TxJQ0Fk/edit#heading=h.utcl8ytb2o5h",
+          "accessStartTime": "Mon Aug 05 2024 11:01:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Transoft interview prep - Google Docs",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406177139097665",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884407390000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=for+each+letter+in+string+java",
+          "accessStartTime": "Mon Aug 05 2024 11:05:27 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=for+each+letter+in+string+java",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406177368735812",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884380440000,
+      "data": {
+        "siteInfo": {
+          "url": "https://stackoverflow.com/questions/2451650/how-do-i-apply-the-for-each-loop-to-every-character-in-a-string",
+          "accessStartTime": "Mon Aug 05 2024 11:06:16 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "java - How do I apply the for-each loop to every character in a String? - Stack Overflow",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406177508196417",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884408240000,
+      "data": {
+        "siteInfo": {
+          "url": "https://docs.google.com/document/d/1Q63GVLBxkggSeeYGlfUhmMdr89y-_Hw-9Yo2TxJQ0Fk/edit",
+          "accessStartTime": "Mon Aug 05 2024 11:06:29 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Transoft interview prep - Google Docs",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406178100641860",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884365520000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.geeksforgeeks.org/chararraywriter-append-method-in-java-with-examples/",
+          "accessStartTime": "Mon Aug 05 2024 11:07:47 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "geeksforgeeks.org/chararraywriter-append-method-in-java-with-examples/",
+          "timeActive": 16,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 16,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406178235908161",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884384660000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=java+append+char+to+array",
+          "accessStartTime": "Mon Aug 05 2024 11:08:03 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "java append char to array - Google Search",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 6,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406178488614980",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884408920000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=java+append+char+to+string&client=firefox-b-d&sca_esv=00654281386d64e7&sxsrf=ADLYWIKfk-pQQNLTio9k6jvxyAaOuDaLyA%3A1722881184731&ei=oBSxZoqsLI7e0PEPrPfSoQY&ved=0ahUKEwiK_IXIuN6HAxUOLzQIHay7NGQQ4dUDCBA&uact=5&oq=java+append+char+to+string&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmphdmEgYXBwZW5kIGNoYXIgdG8gc3RyaW5nMgsQABiABBiRAhiKBTIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkjuBVDlAVicBXABeACQAQCYAWGgAdIDqgEBNrgBA8gBAPgBAZgCBqACqAPCAgoQABiwAxjWBBhHmAMAiAYBkAYIkgcBNqAH5jE&sclient=gws-wiz-serp",
+          "accessStartTime": "Mon Aug 05 2024 11:08:08 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?q=java+append+char+to+string&client=firefox-b-d&sca_esv=00654281386d64e7&sxsrf=ADL",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406179028631620",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884388890000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/merge-strings-alternately/solutions/?envType=study-plan-v2&envId=leetcode-75",
+          "accessStartTime": "Mon Aug 05 2024 11:21:43 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Merge Strings Alternately - LeetCode",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406179185918020",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884355406000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/merge-strings-alternately/solutions/3429116/easy-solutions-in-java-python-and-c-look-at-once-with-exaplanation/?envType=study-plan-v2&envId=leetcode-75",
+          "accessStartTime": "Mon Aug 05 2024 11:21:47 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Merge Strings Alternately - LeetCode",
+          "timeActive": 71,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 71,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406179336912964",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884374413000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75",
+          "accessStartTime": "Mon Aug 05 2024 11:23:00 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Merge Strings Alternately - LeetCode",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 9,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406179572842564",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884409810000,
+      "data": {
+        "siteInfo": {
+          "url": "https://stackoverflow.com/questions/14444717/append-a-single-character-to-a-string-or-char-array-in-java",
+          "accessStartTime": "Mon Aug 05 2024 11:24:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Append a single character to a string or char array in java? - Stack Overflow",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406180443160641",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884352710000,
+      "data": {
+        "siteInfo": {
+          "url": "https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75",
+          "accessStartTime": "Mon Aug 05 2024 11:36:18 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Greatest Common Divisor of Strings - LeetCode",
+          "timeActive": 252,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 252,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406180665458756",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884353330000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.geeksforgeeks.org/introduction-to-java/",
+          "accessStartTime": "Mon Aug 05 2024 11:40:37 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "geeksforgeeks.org/introduction-to-java/",
+          "timeActive": 243,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 243,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406180851056708",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884391220000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=a+java+overview",
+          "accessStartTime": "Mon Aug 05 2024 11:44:43 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "a java overview - Google Search",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406181226446916",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884385204000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_intro.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:44:47 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Introduction to Java",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 6,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406181385830465",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884358990000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_syntax.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:44:54 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Syntax",
+          "timeActive": 37,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 37,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406181532631108",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884361620000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_output.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:45:31 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Output Values / Print Text",
+          "timeActive": 22,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 22,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406181767512132",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884394040000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_output_numbers.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:45:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Output Numbers / Print Numbers",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406181922701380",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884385910000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_comments.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:45:57 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Comments",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 6,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406182081036356",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884362190000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_variables.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:46:03 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Variables",
+          "timeActive": 20,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 20,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406182315917380",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884369606000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_variables_print.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:46:24 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Print/Display Variables",
+          "timeActive": 14,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 14,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406182462718017",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884375036000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/tryjava.asp?filename=demo_variables_multi2",
+          "accessStartTime": "Mon Aug 05 2024 11:47:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "W3Schools Tryit Editor",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 9,
+          "categoryName": "lectures_and_demos",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406182626295876",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884394663000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_variables_multiple.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:47:11 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Declare Multiple Variables",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406182864322625",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884357595000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_variables_identifiers.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:47:13 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Identifiers (Variable Names)",
+          "timeActive": 53,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 53,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406183022657604",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884382650000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_variables_reallife.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:48:06 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Variables Real-Life Examples",
+          "timeActive": 7,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 7,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406183174701121",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884375740000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_data_types.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:48:14 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Data Types",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 9,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406183412727876",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884362820000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_data_types_numbers.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:48:23 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Numbers",
+          "timeActive": 18,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 18,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406183567917121",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884357020000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_data_types_boolean.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:48:41 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Boolean Data Types",
+          "timeActive": 63,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 63,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406183728349249",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884380996000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_data_types_characters.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:49:46 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Data Types Characters",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406183965327428",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884395240000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_data_types_reallife.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:49:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Data Types Real-Life Example",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406184113176641",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884359680000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_data_types_non-prim.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:49:57 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Non-Primitive Data Types",
+          "timeActive": 30,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 30,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406184311357505",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884354210000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_type_casting.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:50:27 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Type Casting",
+          "timeActive": 85,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 85,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406184550432833",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884400470000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_operators.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:51:52 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Operators",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406184695136324",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884367350000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_strings.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:51:54 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Strings",
+          "timeActive": 15,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 15,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406184845082689",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884360370000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_strings_concat.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:52:09 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Strings Concatenation",
+          "timeActive": 29,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 29,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406185063186497",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884376310000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_strings_numbers.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:52:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Numbers and Strings",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 9,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406185214181444",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884381540000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_strings_specchars.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:52:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Strings - Special Characters",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406185352593476",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884373240000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_math.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:52:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Math",
+          "timeActive": 10,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 10,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406185612640324",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884383230000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_booleans.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:53:05 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "w3schools.com/java/java_booleans.asp",
+          "timeActive": 7,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 7,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406185761538116",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884370735000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_conditions_shorthand.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:53:42 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Short Hand If...Else (Ternary Operator)",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 11,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406185912533060",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884410385000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_conditions_elseif.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:53:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java The else if Statement",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406186062479425",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884373815000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_conditions.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:53:54 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java If ... Else",
+          "timeActive": 10,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 10,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406186219765828",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884391815000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_conditions_else.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:54:04 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java The else Statement",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406186365517892",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884411105000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_conditions_reallife.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:54:08 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Real-Life If Else Examples",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406186513367105",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884395850000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_switch.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:54:09 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "w3schools.com/java/java_switch.asp",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406186746150977",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884392535000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_while_loop.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:54:12 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java While Loop",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406186920214596",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884396730000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_while_loop_do.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:54:15 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "w3schools.com/java/java_while_loop_do.asp",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406187114201153",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884411990000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_while_loop_reallife.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:54:19 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Real-Life While Loop Examples",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406187311333444",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884355995000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_for_loop.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:54:20 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java For Loop",
+          "timeActive": 65,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 65,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406187467571268",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884354810000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_for_loop_nested.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:55:26 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Nested Loops",
+          "timeActive": 79,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 80,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406187624857665",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884361060000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_foreach_loop.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:56:43 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java For-Each Loop",
+          "timeActive": 23,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 23,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406187881758788",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884389483000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_for_loop_reallife.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:57:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Real-Life For Loop Examples",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406188024365124",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884366770000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_break.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:57:12 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "w3schools.com/java/java_break.asp",
+          "timeActive": 16,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 16,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406188171165764",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884376996000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_arrays.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:57:28 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Arrays",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 9,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406188394512452",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884386490000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_arrays_loop.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:57:37 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Loop Through an Array",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 6,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "405406188552847425",
+          "collection": {
+            "@ref": {
+              "id": "ucyanlion13",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722884358430000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/java/java_methods.asp",
+          "accessStartTime": "Mon Aug 05 2024 11:57:41 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Java Methods",
+          "timeActive": 45,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 45,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    }
+  ]
+}

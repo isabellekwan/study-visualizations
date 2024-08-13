@@ -1,0 +1,1012 @@
+{
+  "data": [
+    {
+      "ref": {
+        "@ref": {
+          "id": "403349830817022020",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184663850000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-calendar-overview.netlify.app/",
+          "accessStartTime": "Sat Jul 13 2024 19:22:20 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Vite App",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403349830985842753",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184665915000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=navigationcontroller",
+          "accessStartTime": "Sat Jul 13 2024 19:11:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=navigationcontroller",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403349831114817604",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721003534160000,
+      "data": {
+        "siteInfo": {
+          "url": "https://developer.apple.com/documentation/uikit/uinavigationcontroller",
+          "accessStartTime": "Sun Jul 14 2024 16:57:12 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "UINavigationController | Apple Developer Documentation",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403349831250083905",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721003534305000,
+      "data": {
+        "siteInfo": {
+          "url": "https://developer.apple.com/documentation/uikit/uinavigationcontroller/1621855-poptorootviewcontroller",
+          "accessStartTime": "Sun Jul 14 2024 16:57:23 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "popToRootViewController(animated:) | Apple Developer Documentation",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "documentation",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": "documentation"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403349952613318721",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184662650000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=uitabviewcontroller+in+swiftui",
+          "accessStartTime": "Sat Jul 13 2024 19:14:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=uitabviewcontroller+in+swiftui",
+          "timeActive": 44,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403349952728662084",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184663130000,
+      "data": {
+        "siteInfo": {
+          "url": "https://developer.apple.com/documentation/uikit/uitabbarcontroller",
+          "accessStartTime": "Sat Jul 13 2024 19:16:22 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "UITabBarController | Apple Developer Documentation",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403349952857636932",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1720923651615000,
+      "data": {
+        "siteInfo": {
+          "url": "https://stackoverflow.com/questions/69101731/geometryreader-still-takes-into-account-hidden-navigation-bar-of-hosting-control/69145335#69145335",
+          "accessStartTime": "Sat Jul 13 2024 19:16:17 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "ios - GeometryReader still takes into account hidden navigation bar of hosting controller - Stack Ov",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "Customising-tabbar",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": "Customising-tabbar"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403349952983466052",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1720923653670000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/SwiftUI/comments/pypyoq/custom_tabbar_in_swiftui_using_uitabbarcontroller/?rdt=59455",
+          "accessStartTime": "Sat Jul 13 2024 19:16:21 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Custom TabBar in SwiftUI using UITabBarController : r/SwiftUI",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403350041386811457",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1720923924420000,
+      "data": {
+        "siteInfo": {
+          "url": "https://developer.apple.com/documentation/uikit/uiviewcontroller",
+          "accessStartTime": "Sat Jul 13 2024 19:16:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "UITabBarController | Apple Developer Documentation",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403350041874399300",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1720923922780000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=data+visualization+in+swiftui",
+          "accessStartTime": "Sat Jul 13 2024 19:16:35 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=data+visualization+in+swiftui",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403350042007568449",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1720923652430000,
+      "data": {
+        "siteInfo": {
+          "url": "about:reader?url=https%3A%2F%2Fmedium.com%2Fswiftly-engineered-ios%2Fvisualizing-data-with-swiftui-charts-a-practical-guide-7dbf896e4b0a",
+          "accessStartTime": "Sat Jul 13 2024 19:16:52 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Visualizing Data with SwiftUI Charts: A Practical Guide | by Kelvin Tan | Swiftly Engineered iOS | M",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403350042129203268",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1720923783990000,
+      "data": {
+        "siteInfo": {
+          "url": "https://medium.com/swiftly-engineered-ios/visualizing-data-with-swiftui-charts-a-practical-guide-7dbf896e4b0a",
+          "accessStartTime": "Sat Jul 13 2024 19:16:56 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Visualizing Data with SwiftUI Charts: A Practical Guide | by Kelvin Tan | Swiftly Engineered iOS | M",
+          "timeActive": 19,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "datavis-guide",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": "datavis-guide"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403350417909481537",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721003570785000,
+      "data": {
+        "siteInfo": {
+          "url": "https://developer.apple.com/documentation/charts",
+          "accessStartTime": "Sat Jul 13 2024 19:17:15 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Swift Charts | Apple Developer Documentation",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 11,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403350418031116353",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184666525000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-topics-overview.netlify.app/",
+          "accessStartTime": "Sun Jul 14 2024 16:37:45 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Milestones Topics Overview",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403350418155896900",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184665010000,
+      "data": {
+        "siteInfo": {
+          "url": "https://sortify-overview.netlify.app/",
+          "accessStartTime": "Tue Jul 16 2024 19:45:39 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Resource-based overview",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 12,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403350418402312257",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184668160000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-calendar-overview.netlify.app/#",
+          "accessStartTime": "Tue Jul 16 2024 19:11:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Vite App",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 31,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403430647983505476",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184648540000,
+      "data": {
+        "siteInfo": {
+          "url": "https://developer.apple.com/tutorials/app-dev-training/managing-data-flow-between-views",
+          "accessStartTime": "Tue Jul 16 2024 19:45:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Managing data flow between views | Apple Developer Documentation",
+          "timeActive": 95,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "State-management",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": "State-management"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403434042172637249",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721003571980000,
+      "data": {
+        "siteInfo": {
+          "url": "https://stackoverflow.com/questions/49994795/left-side-of-nil-coalescing-operator-has-non-optional-type-string-so-the",
+          "accessStartTime": "Sun Jul 14 2024 16:57:48 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "ios - Left side of nil coalescing operator '??' has non-optional type 'String', so the right side is",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 6,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403434042289029185",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721003566560000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.hackingwithswift.com/sixty/10/6/nil-coalescing",
+          "accessStartTime": "Sun Jul 14 2024 16:58:00 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Nil coalescing - a free Hacking with Swift tutorial",
+          "timeActive": 60,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 60,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403434042407518273",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184664370000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=Coalesce+using+%27%3F%3F%27+to+provide+a+default+when+the+optional+value+contains+%27nil%27",
+          "accessStartTime": "Sun Jul 14 2024 16:58:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Coalesce using '??' to provide a default when the optional value contains 'nil' - Google Search",
+          "timeActive": 10,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 10,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403434042527055937",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721003572600000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.hackingwithswift.com/example-code/language/what-is-the-nil-coalescing-operator",
+          "accessStartTime": "Sun Jul 14 2024 16:59:12 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "What is the nil coalescing operator? - free Swift example code and tips",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403434042647642177",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721003565995000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=swiftui+Coalesce+using+%27%3F%3F%27+to+provide+a+default+when+the+optional+value+contains+%27nil%27&client=firefox-b-d&sca_esv=0f035a6f16314de5&ei=zWWUZtCnFNCr0PEP14iZoAE&ved=0ahUKEwiQwoHz3aeHAxXQFTQIHVdEBhQQ4dUDCA8&uact=5&oq=swiftui+Coalesce+using+%27%3F%3F%27+to+provide+a+default+when+the+optional+value+contains+%27nil%27&gs_lp=Egxnd3Mtd2l6LXNlcnAiV3N3aWZ0dWkgQ29hbGVzY2UgdXNpbmcgJz8_JyB0byBwcm92aWRlIGEgZGVmYXVsdCB3aGVuIHRoZSBvcHRpb25hbCB2YWx1ZSBjb250YWlucyAnbmlsJzILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgoQABiABBhDGIoFMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjvE1AAWLkPcAB4AJABAJgBSKABwgOqAQE4uAEDyAEA-AEB-AECmAIIoALlA8ICDhAAGIAEGLEDGIMBGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAg4QLhiABBixAxjRAxjHAcICCxAAGIAEGLEDGIMBwgIOEC4YgAQYsQMYgwEYigXCAhQQLhiABBixAxiDARjHARiKBRivAcICCBAuGIAEGLEDwgIIEAAYgAQYsQPCAg0QABiABBixAxhDGIoFwgIOEC4YgAQYsQMYgwEY5QTCAhAQABiABBixAxhDGMkDGIoFwgIOEC4YgAQYxwEYjgUYrwHCAg4QABiABBiRAhixAxiKBZgDAJIHATigB7BP&sclient=gws-wiz-serp",
+          "accessStartTime": "Sun Jul 14 2024 16:59:17 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "swiftui Coalesce using '??' to provide a default when the optional value contains 'nil' - Google Sea",
+          "timeActive": 142,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 142,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403434042765082692",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721003564626000,
+      "data": {
+        "siteInfo": {
+          "url": "https://developer.apple.com/tutorials/app-dev-training/creating-the-edit-view",
+          "accessStartTime": "Sun Jul 14 2024 17:01:39 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Creating the edit view — App Dev Tutorials | Apple Developer Documentation",
+          "timeActive": 1799,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1799,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403434042884620356",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184648670000,
+      "data": {
+        "siteInfo": {
+          "url": "https://developer.apple.com/tutorials/app-dev-training/passing-data-with-bindings",
+          "accessStartTime": "Tue Jul 16 2024 19:47:23 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Creating the edit view — App Dev Tutorials | Apple Developer Documentation",
+          "timeActive": 183,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 23,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403623953504927809",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184658436000,
+      "data": {
+        "siteInfo": {
+          "url": "https://stackoverflow.com/questions/69106886/how-to-fix-cannot-convert-value-of-type-bindingdevice-to-expected-argument-t",
+          "accessStartTime": "Tue Jul 16 2024 19:42:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "swiftui - How to fix Cannot convert value of type 'Binding<Device>' to expected argument type 'Devic",
+          "timeActive": 55,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 55,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403623953633902660",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184667337000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=Cannot+convert+value+of+type+%27DailyScrum%27+to+expected+argument+type+%27Binding%3CDailyScrum%3E%27",
+          "accessStartTime": "Tue Jul 16 2024 19:43:50 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Cannot convert value of type 'DailyScrum' to expected argument type 'Binding<DailyScrum>' - Google S",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403623953761828932",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184657565000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.hackingwithswift.com/quick-start/swiftui/how-to-fix-cannot-convert-value-of-type-string-to-expected-argument-type-binding-string",
+          "accessStartTime": "Tue Jul 16 2024 19:43:52 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How to fix “Cannot convert value of type 'String' to expected argument type 'Binding<String>’” - a f",
+          "timeActive": 106,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 106,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403623954359517252",
+          "collection": {
+            "@ref": {
+              "id": "uobsidianowl04",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721184660090000,
+      "data": {
+        "siteInfo": {
+          "url": "https://developer.apple.com/tutorials/app-dev-training/making-classes-observable",
+          "accessStartTime": "Tue Jul 16 2024 19:50:27 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Passing data with bindings — App Dev Tutorials | Apple Developer Documentation",
+          "timeActive": 17,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 17,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3735 @@
+{
+  "data": [
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866040998559809",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722264995930000,
+      "data": {
+        "siteInfo": {
+          "url": "about:debugging#/runtime/this-firefox",
+          "accessStartTime": "Mon Jul 22 2024 16:40:43 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Debugging - Runtime / this-firefox",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866041241829441",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722264998850000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=learn+r",
+          "accessStartTime": "Fri Jul 19 2024 11:57:08 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=learn+r",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866041367658564",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721416191915000,
+      "data": {
+        "siteInfo": {
+          "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2Fgsi%2Fselect%3Fclient_id%3D892114885437-01a7plbsu1b2vobuhvnckmmanhb58h3a.apps.googleusercontent.com%26origin%3Dhttps%3A%2F%2Fwww.datacamp.com%26ux_mode%3Dpopup%26relay_method%3D2%26scaft%3D1%26as%3DvMy9RGQav8dZaHMm19fSPw&faa=1&ifkv=AdF4I77lAXMs42zp5BwlKktpzNiM-V6fcyIr38COj9NjiWoZ2Du7jw3STJVNtSaKcjdn0grgSPq9&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1460609507%3A1721415441246636&ddm=0",
+          "accessStartTime": "Fri Jul 19 2024 11:57:21 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2Fgsi%2Fselect%3",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "this url likely falls under the category of \"my_work\" as it appears to be related to signing into a google account for work-related purposes on a platform such as datacamp.",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866041514459201",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722264994980000,
+      "data": {
+        "siteInfo": {
+          "url": "https://accounts.google.com/v3/signin/challenge/pwd?TL=ALoj5ApDtKnCWeojqL8L4nXYGvCVR8NuP1tIfjQEgrJ6q8J66Juwi8LPTRdhvlr6&checkConnection=youtube%3A105&checkedDomains=youtube&cid=2&continue=https%3A%2F%2Faccounts.google.com%2Fgsi%2Fselect%3Fclient_id%3D892114885437-01a7plbsu1b2vobuhvnckmmanhb58h3a.apps.googleusercontent.com%26origin%3Dhttps%3A%2F%2Fwww.datacamp.com%26ux_mode%3Dpopup%26relay_method%3D2%26scaft%3D1%26as%3DvMy9RGQav8dZaHMm19fSPw&ddm=0&dsh=S1460609507%3A1721415441246636&faa=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AdF4I77lAXMs42zp5BwlKktpzNiM-V6fcyIr38COj9NjiWoZ2Du7jw3STJVNtSaKcjdn0grgSPq9&pstMsg=1",
+          "accessStartTime": "Fri Jul 19 2024 11:57:25 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Sign in - Google Accounts",
+          "timeActive": 19,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866041637142593",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265005432000,
+      "data": {
+        "siteInfo": {
+          "url": "https://accounts.google.com/signin/v2/passkeyenrollment?TL=ALoj5ApDtKnCWeojqL8L4nXYGvCVR8NuP1tIfjQEgrJ6q8J66Juwi8LPTRdhvlr6&checkConnection=youtube%3A105&checkedDomains=youtube&continue=https%3A%2F%2Faccounts.google.com%2Fgsi%2Fselect%3Fclient_id%3D892114885437-01a7plbsu1b2vobuhvnckmmanhb58h3a.apps.googleusercontent.com%26origin%3Dhttps%3A%2F%2Fwww.datacamp.com%26ux_mode%3Dpopup%26relay_method%3D2%26scaft%3D1%26as%3DvMy9RGQav8dZaHMm19fSPw&ddm=0&dsh=S1460609507%3A1721415441246636&faa=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AdF4I77lAXMs42zp5BwlKktpzNiM-V6fcyIr38COj9NjiWoZ2Du7jw3STJVNtSaKcjdn0grgSPq9&pstMsg=1",
+          "accessStartTime": "Fri Jul 19 2024 11:57:44 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Sign in – Google accounts",
+          "timeActive": 0,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866041769263172",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722264999760000,
+      "data": {
+        "siteInfo": {
+          "url": "https://accounts.google.com/signin/v2/passkeyenrollment?TL=ALoj5ApDtKnCWeojqL8L4nXYGvCVR8NuP1tIfjQEgrJ6q8J66Juwi8LPTRdhvlr6&checkConnection=youtube%3A105&checkedDomains=youtube&continue=https%3A%2F%2Faccounts.google.com%2Fgsi%2Fselect%3Fclient_id%3D892114885437-01a7plbsu1b2vobuhvnckmmanhb58h3a.apps.googleusercontent.com%26origin%3Dhttps%3A%2F%2Fwww.datacamp.com%26ux_mode%3Dpopup%26relay_method%3D2%26scaft%3D1%26as%3DvMy9RGQav8dZaHMm19fSPw&ddm=0&dsh=S1460609507%3A1721415441246636&faa=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AdF4I74GDo0xTVhOgzzJY3BiFZGJXt3gSkjO0DtWzcS43k-6HzZa1Ez12GLPALlQMBAb3ATnFuRq&pstMsg=1",
+          "accessStartTime": "Fri Jul 19 2024 11:57:44 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Sign in – Google accounts",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866041894043713",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265002180000,
+      "data": {
+        "siteInfo": {
+          "url": "https://accounts.google.com/gsi/select?client_id=892114885437-01a7plbsu1b2vobuhvnckmmanhb58h3a.apps.googleusercontent.com&origin=https://www.datacamp.com&ux_mode=popup&relay_method=2&scaft=1&as=vMy9RGQav8dZaHMm19fSPw&authuser=0",
+          "accessStartTime": "Fri Jul 19 2024 11:57:49 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Sign In - Google Accounts",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": true,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866042011484225",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721415960030000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.datacamp.com/courses/free-introduction-to-r?utm_source=google&utm_medium=paid_search&utm_campaignid=897699256&utm_adgroupid=153995690108&utm_device=c&utm_keyword=learn%20r&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=705099675835&utm_targetid=kwd-298045963101&utm_loc_interest_ms=&utm_loc_physical_ms=9001527&utm_content=tech~r~learn&utm_campaign=220808_1-sea~tech~r_2-b2c_3-row-p1_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na-july24&gad_source=1&gclid=EAIaIQobChMIytyBmeSzhwMVfAWtBh21lQL3EAAYASAAEgJDfvD_BwE",
+          "accessStartTime": "Fri Jul 19 2024 11:57:51 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Introduction to R Programming Course | DataCamp Course | DataCamp",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866042129973316",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721415958003000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.datacamp.com/complete-your-profile?country_code=US&redirect=%2Fcourses%2Ffree-introduction-to-r%2Fcontinue",
+          "accessStartTime": "Fri Jul 19 2024 11:57:52 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "DataCamp",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866042259996740",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721961583837000,
+      "data": {
+        "siteInfo": {
+          "url": "https://app.datacamp.com/",
+          "accessStartTime": "Sun Jul 21 2024 14:43:33 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "app.datacamp.com/",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "learning-resource",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": true,
+          "qtag": "learning-resource"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866076099641412",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721415956650000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=learn+r+free",
+          "accessStartTime": "Fri Jul 19 2024 11:58:54 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=learn+r+free",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866076218130500",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721961626810000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/RStudio/comments/vpkyyl/what_are_the_best_sources_to_learn_and_practice_r/?rdt=42144",
+          "accessStartTime": "Thu Jul 25 2024 19:28:22 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "reddit.com/r/RStudio/comments/vpkyyl/what_are_the_best_sources_to_learn_and_practice_r/?rdt=42144",
+          "timeActive": 32,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "read-more-about-",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": "read-more-about-"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866119502299204",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721415954190000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=how+to+import+a+dataset+in+r%5C",
+          "accessStartTime": "Fri Jul 19 2024 11:59:30 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "how to import a dataset in r\\ - Google Search",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866119611351105",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721415960480000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.datacamp.com/tutorial/r-data-import-tutorial",
+          "accessStartTime": "Fri Jul 19 2024 12:00:14 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "datacamp.com/tutorial/r-data-import-tutorial",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "understand-this-concept-",
+          "totalTime": 2,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": "understand-this-concept-"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866207341510724",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721415959280000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=how+does+r+work",
+          "accessStartTime": "Fri Jul 19 2024 12:01:02 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=how+does+r+work",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "403866207451611204",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265031890000,
+      "data": {
+        "siteInfo": {
+          "url": "https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf",
+          "accessStartTime": "Mon Jul 29 2024 07:56:10 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "PDF.js viewer",
+          "timeActive": 15,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058268384624713",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265002720000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-calendar-overview.netlify.app/#",
+          "accessStartTime": "Sun Jul 21 2024 14:45:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Vite App",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058268597485645",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265032325000,
+      "data": {
+        "siteInfo": {
+          "url": "https://sortify-overview.netlify.app/",
+          "accessStartTime": "Mon Jul 29 2024 07:56:34 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Resource-based overview",
+          "timeActive": 38,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058268830269513",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265032112000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-topics-overview.netlify.app/",
+          "accessStartTime": "Mon Jul 29 2024 07:56:25 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Milestones Topics Overview",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": [
+            "no-qtags-yet"
+          ],
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058269066199117",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265003840000,
+      "data": {
+        "siteInfo": {
+          "url": "https://milestones-calendar-overview.netlify.app/",
+          "accessStartTime": "Sun Jul 21 2024 14:45:05 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Vite App",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 3,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058269537009741",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721691656105000,
+      "data": {
+        "siteInfo": {
+          "url": "https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=4",
+          "accessStartTime": "Sun Jul 21 2024 14:45:17 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Variable assignment (2) | R",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 11,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058269784473677",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721691657710000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=how+to+pribt+on+r",
+          "accessStartTime": "Sun Jul 21 2024 14:45:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "how to pribt on r - Google Search",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 4,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058270004674637",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721691657160000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=how+to+add+in+r&client=firefox-b-d&sca_esv=0c6ef13e064fd2d5&sxsrf=ADLYWII90Tfsl4TSTyG93WbqSaxlw0RZrg%3A1721598310383&ei=ZoGdZt2MF72e0PEP9dWNgAE&ved=0ahUKEwjd1_G9jbmHAxU9DzQIHfVqAxAQ4dUDCA8&uact=5&oq=how+to+add+in+r&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2hvdyB0byBhZGQgaW4gcjIKEAAYgAQYFBiHAjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjcFFCiBVjbEnADeAGQAQCYAWigAZ8JqgEEMTQuMbgBA8gBAPgBAZgCEqACygrCAgoQABiwAxjWBBhHwgIEECMYJ8ICChAjGIAEGCcYigXCAgsQABiABBiRAhiKBcICDhAAGIAEGLEDGIMBGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAgoQABiABBhDGIoFwgILEAAYgAQYsQMYgwHCAggQABiABBixA8ICCBAuGIAEGLEDmAMA4gMFEgExIECIBgGQBgiSBwQxNS4zoAeqew&sclient=gws-wiz-serp",
+          "accessStartTime": "Sun Jul 21 2024 14:45:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?q=how+to+add+in+r&client=firefox-b-d&sca_esv=0c6ef13e064fd2d5&sxsrf=ADLYWII90Tfsl4",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 5,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058270220681289",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721691988046000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.projectpro.io/recipes/add-2-numbers-r",
+          "accessStartTime": "Mon Jul 22 2024 16:41:39 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How to do addition in r? - Projectpro",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058270445076553",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721691653780000,
+      "data": {
+        "siteInfo": {
+          "url": "https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=5",
+          "accessStartTime": "Sun Jul 21 2024 14:46:21 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Variable assignment (3) | R",
+          "timeActive": 43,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 43,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058270711414857",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721691653200000,
+      "data": {
+        "siteInfo": {
+          "url": "https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=6",
+          "accessStartTime": "Sun Jul 21 2024 14:47:05 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Variable assignment (3) | R",
+          "timeActive": 52,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 52,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058270952587341",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721961558950000,
+      "data": {
+        "siteInfo": {
+          "url": "https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=7",
+          "accessStartTime": "Sun Jul 21 2024 14:47:58 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Apples and oranges | R",
+          "timeActive": 72,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": true,
+          "qtags": "no-qtag-yet",
+          "totalTime": 72,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058271149719629",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721691654395000,
+      "data": {
+        "siteInfo": {
+          "url": "https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=8",
+          "accessStartTime": "Sun Jul 21 2024 14:49:10 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Basic data types in R | R",
+          "timeActive": 39,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 39,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058271370969161",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721691658770000,
+      "data": {
+        "siteInfo": {
+          "url": "https://campus.datacamp.com/courses/free-introduction-to-r",
+          "accessStartTime": "Sun Jul 21 2024 14:50:00 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "campus.datacamp.com/courses/free-introduction-to-r",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058272447856713",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721691655585000,
+      "data": {
+        "siteInfo": {
+          "url": "https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1",
+          "accessStartTime": "Sun Jul 21 2024 14:50:02 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How it works | R",
+          "timeActive": 14,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 14,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404058273707196489",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721691656645000,
+      "data": {
+        "siteInfo": {
+          "url": "https://app.datacamp.com/learn",
+          "accessStartTime": "Sun Jul 21 2024 14:50:16 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "DataCamp",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 8,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155937320861769",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721961626486000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/r_exercises.asp",
+          "accessStartTime": "Thu Jul 25 2024 19:28:14 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "R Exercises",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 2,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155937509605449",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721961621920000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_math1",
+          "accessStartTime": "Thu Jul 25 2024 19:20:21 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 10,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155937715126349",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721960892210000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/r_math.asp",
+          "accessStartTime": "Mon Jul 22 2024 16:41:35 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "R Math",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155938531967053",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721960886700000,
+      "data": {
+        "siteInfo": {
+          "url": "https://rstats101.com/built-in-datasets-in-r/#google_vignette",
+          "accessStartTime": "Mon Jul 22 2024 16:44:19 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "List of Built in Datasets in R - Rstats 101",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155938756362313",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721960879540000,
+      "data": {
+        "siteInfo": {
+          "url": "https://rstats101.com/built-in-datasets-in-r/",
+          "accessStartTime": "Mon Jul 22 2024 16:44:25 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "List of Built in Datasets in R - Rstats 101",
+          "timeActive": 42,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155938945105993",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721960892795000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.reddit.com/r/RStudio/comments/yab9xb/sample_datasets_to_practice_skills/?rdt=60903",
+          "accessStartTime": "Mon Jul 22 2024 16:45:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Sample datasets to practice skills : r/RStudio",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155939133849673",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722264997350000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=r+practice+data+sets",
+          "accessStartTime": "Mon Jul 22 2024 16:45:09 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "r practice data sets - Google Search",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155939338321997",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265000540000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=r+practice+problemss&client=firefox-b-d&sca_esv=2b44ec1203151008&sxsrf=ADLYWIIUn1T23WOE2kdzPOehIpsbbx818w%3A1721691818913&ei=qu6eZsW1N5-30PEP98uTiA8&ved=0ahUKEwjFsp3q6buHAxWfGzQIHfflBPEQ4dUDCA8&uact=5&oq=r+practice+problemss&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHIgcHJhY3RpY2UgcHJvYmxlbXNzMgsQABiABBiRAhiKBTIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkjHGFDyA1j3F3ACeACQAQGYAZkBoAHhDKoBBDE4LjG4AQPIAQD4AQGYAgygArYHwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAgsQABiABBiGAxiKBcICCBAAGIAEGKIEwgIFEAAYgASYAwCIBgGQBgiSBwQxMC4yoAffhAE&sclient=gws-wiz-serp",
+          "accessStartTime": "Thu Jul 25 2024 19:16:52 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?q=r+practice+problemss&client=firefox-b-d&sca_esv=2b44ec1203151008&sxsrf=ADLYWIIUn",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155939527065677",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721961620070000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3resource.com/r-programming-exercises/",
+          "accessStartTime": "Thu Jul 25 2024 19:16:31 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "R programming Exercises, Practice, Solution - w3resource",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155939778723917",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721960889660000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3resource.com/r-programming-exercises/#google_vignette",
+          "accessStartTime": "Mon Jul 22 2024 16:45:23 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "R programming Exercises, Practice, Solution - w3resource",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155939966419017",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721961619940000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3resource.com/r-programming-exercises/basic/index.php",
+          "accessStartTime": "Thu Jul 25 2024 19:16:24 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "R Programming Basic - Exercises, Practice, Solution - w3resource",
+          "timeActive": 7,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "learning-resource",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": "learning-resource"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404155940165648461",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721961626200000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3resource.com/r-programming-exercises/basic/r-programming-basic-exercise-1.php",
+          "accessStartTime": "Thu Jul 25 2024 19:28:09 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "R Programming: Take input from the user and display the values, print the version of R installation ",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404156308505231433",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721960880885000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.statology.org/readlines-in-r/",
+          "accessStartTime": "Mon Jul 22 2024 16:48:36 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "How to Use readLines() Function in R (With Examples)",
+          "timeActive": 22,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 24,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404156308703412301",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722264998140000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=readlines+r",
+          "accessStartTime": "Mon Jul 22 2024 16:48:56 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "readlines r - Google Search",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 7,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404156308923613261",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265004590000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?q=readline+r&client=firefox-b-d&sca_esv=2b44ec1203151008&sxsrf=ADLYWIKLGHg9kvwRrkd55mIgk6Mgnh50-Q%3A1721692114744&ei=0u-eZruTLY2m0PEP3f6Z-AY&ved=0ahUKEwi7xKX36ruHAxUNEzQIHV1_Bm8Q4dUDCA8&uact=5&oq=readline+r&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnJlYWRsaW5lIHIyChAAGIAEGBQYhwIyBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjjBVCMBFiMBHABeACQAQCYAWCgAbUBqgEBMrgBA8gBAPgBAZgCAqACf8ICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFmAMAiAYBkAYKkgcDMS4xoAe8Cw&sclient=gws-wiz-serp",
+          "accessStartTime": "Mon Jul 22 2024 16:49:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?q=readline+r&client=firefox-b-d&sca_esv=2b44ec1203151008&sxsrf=ADLYWIKLGHg9kvwRrkd",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404156309115502665",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721961626060000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/readline",
+          "accessStartTime": "Thu Jul 25 2024 19:28:02 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "readline function - RDocumentation",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438667942166596",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967929905000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.geeksforgeeks.org/r-programming-exercises-practice-questions-and-solutions/",
+          "accessStartTime": "Thu Jul 25 2024 19:16:36 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "geeksforgeeks.org/r-programming-exercises-practice-questions-and-solutions/",
+          "timeActive": 16,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438668227379268",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967953900000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_syntax1",
+          "accessStartTime": "Thu Jul 25 2024 19:17:00 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438668371034180",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967944950000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_syntax2",
+          "accessStartTime": "Thu Jul 25 2024 19:17:09 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438668544049220",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967966975000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_syntax3",
+          "accessStartTime": "Thu Jul 25 2024 19:17:22 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438668686655553",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967908120000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_variables1",
+          "accessStartTime": "Thu Jul 25 2024 19:17:26 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 39,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438668846039108",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967924950000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_variables2",
+          "accessStartTime": "Thu Jul 25 2024 19:18:06 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 17,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438668978159684",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967911405000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_variables3",
+          "accessStartTime": "Thu Jul 25 2024 19:18:23 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 27,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438669130203201",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967945674000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_variables4",
+          "accessStartTime": "Thu Jul 25 2024 19:18:50 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438669279100993",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967905255000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_variables5",
+          "accessStartTime": "Thu Jul 25 2024 19:19:02 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 50,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438669436387393",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967948420000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_data_types1",
+          "accessStartTime": "Thu Jul 25 2024 19:19:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 12,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438669587382340",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967944153000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_data_types2",
+          "accessStartTime": "Thu Jul 25 2024 19:20:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 14,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438669880983617",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967967880000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_math2",
+          "accessStartTime": "Thu Jul 25 2024 19:20:32 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438670012055620",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967950410000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_strings1",
+          "accessStartTime": "Thu Jul 25 2024 19:20:36 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438670147321921",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967932330000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_strings2",
+          "accessStartTime": "Thu Jul 25 2024 19:20:45 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 16,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438670294122561",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967912925000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_strings3",
+          "accessStartTime": "Thu Jul 25 2024 19:21:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 25,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438670432534596",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967924205000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_strings4",
+          "accessStartTime": "Thu Jul 25 2024 19:21:28 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 18,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438670579335233",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967952252000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_booleans1",
+          "accessStartTime": "Thu Jul 25 2024 19:21:46 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 10,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438670713552964",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967954560000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_booleans2",
+          "accessStartTime": "Thu Jul 25 2024 19:21:56 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438670879227972",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967956560000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_booleans3",
+          "accessStartTime": "Thu Jul 25 2024 19:22:05 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 8,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438671011348545",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967957755000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_operators1",
+          "accessStartTime": "Thu Jul 25 2024 19:22:13 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "w3schools.com/r/exercise.asp?filename=exercise_operators1",
+          "timeActive": 7,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438671167586369",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967963760000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_operators2",
+          "accessStartTime": "Thu Jul 25 2024 19:22:20 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438671305998401",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967949460000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_operators3",
+          "accessStartTime": "Thu Jul 25 2024 19:22:25 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 12,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438671438118980",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967918560000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_if_else1",
+          "accessStartTime": "Thu Jul 25 2024 19:22:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 22,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438671585968196",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967955700000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_if_else2",
+          "accessStartTime": "Thu Jul 25 2024 19:22:59 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 9,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438671718088772",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967920740000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_if_else3",
+          "accessStartTime": "Thu Jul 25 2024 19:23:09 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 20,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438671861743684",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967940055000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_while_loop1",
+          "accessStartTime": "Thu Jul 25 2024 19:23:29 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 16,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438672020078657",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967919520000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_while_loop2",
+          "accessStartTime": "Thu Jul 25 2024 19:23:46 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 22,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438672162684996",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967946630000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_while_loop3",
+          "accessStartTime": "Thu Jul 25 2024 19:24:07 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438672305291332",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967941720000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_while_loop4",
+          "accessStartTime": "Thu Jul 25 2024 19:24:21 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "w3schools.com/r/exercise.asp?filename=exercise_while_loop4",
+          "timeActive": 16,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438672530735169",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967909910000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_functions1",
+          "accessStartTime": "Thu Jul 25 2024 19:24:37 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 28,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438672682778692",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967915626000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_functions2",
+          "accessStartTime": "Thu Jul 25 2024 19:25:05 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 24,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438672827482180",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967912230000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_functions3",
+          "accessStartTime": "Thu Jul 25 2024 19:25:30 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 27,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438672995254337",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967920130000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_functions4",
+          "accessStartTime": "Thu Jul 25 2024 19:25:57 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 21,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438673158832196",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967951680000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_vectors1",
+          "accessStartTime": "Thu Jul 25 2024 19:26:18 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "w3schools.com/r/exercise.asp?filename=exercise_vectors1",
+          "timeActive": 11,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438673304584257",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967942520000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_vectors2",
+          "accessStartTime": "Thu Jul 25 2024 19:26:28 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 16,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438673442996292",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967952920000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_vectors3",
+          "accessStartTime": "Thu Jul 25 2024 19:26:44 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 10,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438673593991236",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967961545000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_vectors4",
+          "accessStartTime": "Thu Jul 25 2024 19:26:55 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 6,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438673737646145",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967943470000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_vectors5",
+          "accessStartTime": "Thu Jul 25 2024 19:27:01 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 15,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438673888641089",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967947650000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_vectors6",
+          "accessStartTime": "Thu Jul 25 2024 19:27:17 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 13,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438674373083204",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967971440000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.w3schools.com/r/exercise.asp?filename=exercise_vectors7",
+          "accessStartTime": "Thu Jul 25 2024 19:28:11 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Exercise v3.0",
+          "timeActive": 2,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438675007471681",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265001350000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=coursacademy+for+R",
+          "accessStartTime": "Thu Jul 25 2024 19:28:54 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=coursacademy+for+R",
+          "timeActive": 4,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438675156369473",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967964540000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/learn/learn-r",
+          "accessStartTime": "Thu Jul 25 2024 19:28:58 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Learn R | Codecademy",
+          "timeActive": 5,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438675303170116",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967909375000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r",
+          "accessStartTime": "Thu Jul 25 2024 19:29:04 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r",
+          "timeActive": 34,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438675452067905",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967902650000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/arithmetic",
+          "accessStartTime": "Thu Jul 25 2024 19:29:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Why R? | Introduction to R Syntax | Codecademy",
+          "timeActive": 213,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438675600965700",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967908805000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/comments",
+          "accessStartTime": "Thu Jul 25 2024 19:33:13 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Calculations | Introduction to R Syntax | Codecademy",
+          "timeActive": 38,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438675738329156",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967970400000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=how+to+print+name+as+a+character+string+in+r",
+          "accessStartTime": "Thu Jul 25 2024 19:35:15 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "google.com/search?client=firefox-b-d&q=how+to+print+name+as+a+character+string+in+r",
+          "timeActive": 3,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438675883032641",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967907480000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/data-types",
+          "accessStartTime": "Thu Jul 25 2024 19:35:52 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Data Types | Introduction to R Syntax | Codecademy",
+          "timeActive": 43,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438676020396100",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967905930000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/variables",
+          "accessStartTime": "Thu Jul 25 2024 19:36:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Data Types | Introduction to R Syntax | Codecademy",
+          "timeActive": 47,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438676153565249",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967904410000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/vectors",
+          "accessStartTime": "Thu Jul 25 2024 19:37:26 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Variables | Introduction to R Syntax | Codecademy",
+          "timeActive": 51,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438676295123009",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967901480000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/conditionals",
+          "accessStartTime": "Thu Jul 25 2024 19:40:06 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Vectors | Introduction to R Syntax | Codecademy",
+          "timeActive": 218,
+          "isExactBookmark": true,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404438676438777924",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967977745000,
+      "data": {
+        "siteInfo": {
+          "url": "https://stackoverflow.com/questions/14577412/how-to-convert-variable-object-name-into-string",
+          "accessStartTime": "Thu Jul 25 2024 19:39:58 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "r - How to convert variable (object) name into String - Stack Overflow",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 0,
+          "categoryName": "discussion_forum_helpseeking",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404439019793940557",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1721967903520000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/comparison-and-logical-operators",
+          "accessStartTime": "Thu Jul 25 2024 19:43:46 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Conditionals | Introduction to R Syntax | Codecademy",
+          "timeActive": 112,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 112,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404439019963809865",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265031025000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/logical-operators",
+          "accessStartTime": "Thu Jul 25 2024 19:45:38 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Comparison Operators | Introduction to R Syntax | Codecademy",
+          "timeActive": 534,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 17,
+          "categoryName": "step_by_step_tutorials",
+          "psuedoDeleteFlag": false,
+          "qtag": [
+            "no-qtags-yet"
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404444757427748941",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722018085320000,
+      "data": {
+        "siteInfo": {
+          "url": "https://en.wikipedia.org/wiki/Bengal_tiger",
+          "accessStartTime": "Thu Jul 25 2024 21:17:04 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Bengal tiger - Wikipedia",
+          "timeActive": 45,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "bengal-tiger-test-cue",
+          "totalTime": 0,
+          "categoryName": "articles",
+          "psuedoDeleteFlag": true,
+          "qtag": "bengal-tiger-test-cue"
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404756817487331401",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265031240000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/calling-a-function",
+          "accessStartTime": "Mon Jul 29 2024 07:48:33 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Logical Operators | Introduction to R Syntax | Codecademy",
+          "timeActive": 197,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 197,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404756817715920969",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265031460000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/importing-packages",
+          "accessStartTime": "Mon Jul 29 2024 07:51:53 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Calling a Function | Introduction to R Syntax | Codecademy",
+          "timeActive": 221,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 221,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "404756817944510537",
+          "collection": {
+            "@ref": {
+              "id": "ujadejaguar10",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1722265031675000,
+      "data": {
+        "siteInfo": {
+          "url": "https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/review",
+          "accessStartTime": "Mon Jul 29 2024 07:56:09 GMT-0700 (Pacific Daylight Saving Time)",
+          "siteName": "Review | Introduction to R Syntax | Codecademy",
+          "timeActive": 1,
+          "isExactBookmark": false,
+          "like": false,
+          "dislike": false,
+          "qtags": "no-qtag-yet",
+          "totalTime": 1,
+          "categoryName": "uncategorized",
+          "psuedoDeleteFlag": false
+        }
+      }
+    }
+  ]
+}
